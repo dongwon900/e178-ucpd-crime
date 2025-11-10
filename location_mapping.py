@@ -114,6 +114,7 @@ for i, row in crime_sorted.iterrows():
         crime_sorted.at[i, "lon"] = address_dict[key][0]
         crime_sorted.at[i, "lat"] = address_dict[key][1]
 
+# Adding the coordinate info to the original file
 coords = crime_sorted[["lon", "lat"]]
 crime_with_coords = pd.concat([crime, coords], axis=1)
 crime_with_coords.to_csv("SAMPLE_crime_data_with_coords.csv", index=False)
