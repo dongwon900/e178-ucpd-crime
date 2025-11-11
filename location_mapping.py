@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import re
 
+# reading files
 address = pd.read_csv("Berkeley Address Coordinates.csv")
 crime = pd.read_csv("SAMPLE_crime_data_parsed_no_page_deduped.csv")
 
@@ -113,6 +114,18 @@ for i, row in crime_sorted.iterrows():
     if key in address_dict:
         crime_sorted.at[i, "lon"] = address_dict[key][0]
         crime_sorted.at[i, "lat"] = address_dict[key][1]
+        continue
+
+    # See if we have candidates in our data. ex) 1952 oxford for 1950 oxford. tol = 3
+    candidates = []
+    for (n, s), coords in address_dict.items():
+        if s == st and abs(n - num) <= 3:
+            candidates.append((n, s, coords))
+    
+    if candidates:
+        closest = min(candidates, key=lambda x: abs(x[0] - num))
+        crime_sorted.at[i, "lon"] = closest[2][0]
+        crime_sorted.at[i, "lat"] = closest[2][1]
 
 # Adding the coordinate info to the original file
 coords = crime_sorted[["lon", "lat"]]
