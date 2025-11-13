@@ -1,133 +1,35 @@
-import numpy as np
 import pandas as pd
 import re
+import requests
+from requests.structures import CaseInsensitiveDict
 
-# reading files
-address = pd.read_csv("Berkeley Address Coordinates.csv")
-crime = pd.read_csv("SAMPLE_crime_data_parsed_no_page_deduped.csv")
+# Reading the file
+crime = pd.read_csv("crime_loc_coords.csv")
 
-# Excluding uesless data for convenience
-address_sorted = address[["number", "street", "lon", "lat"]]
-crime_sorted = crime[["Location"]]
+# We're only looking for Berkeley
+city_state_country = ",Berkeley,California,United States"
 
-# Lower case conversion for convenience
-address_sorted["street"] = address_sorted["street"].astype(str).str.lower()
-crime_sorted["Location"] = crime_sorted["Location"].astype(str).str.lower()
+# Geocoding function.
+def geocode(address):
+    url = f"https://api.geoapify.com/v1/geocode/search?text={address}&apiKey=3155bb614fcd4b808d7ed2b2beca8541"
+    resp = requests.get(url)
+    data = resp.json()
 
-# Splitting numbers and streets for crime_sorted
-crime_sorted["number"] = np.nan
-crime_sorted["street"] = np.nan
+    if data["features"][0]["properties"]["county"] != "Alameda County":
+        return None, None
 
-# Last words are typically rd, st , etc. We want to get rid of it for convenience.
-def remove_last_word(text):
-    # Just in case there are spaces
-    text = text.strip()
-    
-    # If empty, skip
-    if text == "":
-        return text
+    return data["features"][0]["properties"]["lon"], data["features"][0]["properties"]["lat"]
 
-    # ex)"channing way" -> ["channing", "way"]
-    words = text.split()
+# Geocoding for every line. Each time update.
+# (IMPORTANT!!!)Everytime when restarting, change i
+for i in range(50):
 
-    # If 2 or more words, delete the last word
-    if len(words) > 1:
-        return " ".join(words[:-1])
-    # If there are only one word, keep the original
-    else:
-        return text
-address_sorted["street"] = address_sorted["street"].apply(remove_last_word)
-
-# Splitting numbers and street names for location in crime_sorted
-for i, loc in enumerate(crime_sorted["Location"]):
-
-    # Making sure that there are no spaces front and back. If empty or no string, pass.
-    if not isinstance(loc, str) or loc.strip() == "":
-        continue
-    s = loc.strip()
-
-    # Detach numbers, rest goes into street
-    match = re.match(r"^(\d+)\s*(.*)", s)
-    if match:
-        number = match.group(1)
-        street = match.group(2).strip()
-        crime_sorted.at[i, "number"] = number
-        crime_sorted.at[i, "street"] = street
-    
-    # If no numbers, number: nan, street: building
-    else:
-        crime_sorted.at[i, "number"] = np.nan
-        crime_sorted.at[i, "street"] = s
-
-# Now we want to see if the street names for crime_sorted actually in the address.csv.
-# First, set up a list of street names from address_sorted.
-valid_streets = set(address_sorted["street"].dropna().unique())
-
-# Simplify the street names
-def keep_only_valid_street(street):
-
-    # As before, If empty or no string, pass.
-    if not isinstance(street, str) or street.strip() == "":
-        return street
-
-    # Inspect each word
-    words = street.split()
-
-    # If the name of the street is actually in the crime_sorted street, leave only the street name
-    for w in words:
-        if w in valid_streets:
-            return w  
-
-    # If not, just leave it
-    return street
-crime_sorted["street"] = crime_sorted["street"].apply(keep_only_valid_street)
-
-# Using only valid address with both numbers and street names
-address_valid = address_sorted[address_sorted["number"].notna() & address_sorted["street"].notna()]
-address_dict = {}
-for _, row in address_valid.iterrows():
-    try:
-        num = int(row["number"])
-        st = str(row["street"]).strip()
-        address_dict[(num, st)] = (row["lon"], row["lat"])
-    except:
+    # If address is empty, pass
+    if pd.isna(crime.loc[i+2667, "Location"]):
         continue
 
-# iterating each row, see if anything matches
-for i, row in crime_sorted.iterrows():
-    num = row["number"]
-    st = row["street"]
-
-    # We don't count Nan
-    if pd.isna(num) or pd.isna(st):
-        continue
-
-    try:
-        num = int(num)
-        st = str(st).strip()
-    except:
-        continue
-
-    key = (num, st)
-
-    # If matches, insert lon and lat
-    if key in address_dict:
-        crime_sorted.at[i, "lon"] = address_dict[key][0]
-        crime_sorted.at[i, "lat"] = address_dict[key][1]
-        continue
-
-    # See if we have candidates in our data. ex) 1952 oxford for 1950 oxford. tol = 3
-    candidates = []
-    for (n, s), coords in address_dict.items():
-        if s == st and abs(n - num) <= 3:
-            candidates.append((n, s, coords))
-    
-    if candidates:
-        closest = min(candidates, key=lambda x: abs(x[0] - num))
-        crime_sorted.at[i, "lon"] = closest[2][0]
-        crime_sorted.at[i, "lat"] = closest[2][1]
-
-# Adding the coordinate info to the original file
-coords = crime_sorted[["lon", "lat"]]
-crime_with_coords = pd.concat([crime, coords], axis=1)
-crime_with_coords.to_csv("SAMPLE_crime_data_with_coords.csv", index=False)
+    lon, lat = geocode(crime.loc[i+2667, "Location"]+city_state_country)
+    crime.loc[i+2667, "lon"] = lon
+    crime.loc[i+2667, "lat"] = lat
+    print(f"[{i+2667}] {crime.loc[i+2667, "Location"]+city_state_country} → lon={lon}, lat={lat}")
+    crime.to_csv("crime_loc_coords.csv", index=False)
