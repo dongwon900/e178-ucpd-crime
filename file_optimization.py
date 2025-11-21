@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 # Reading the file
-crime = pd.read_csv("SAMPLE_crime_data_parsed_no_page_deduped.csv")
+crime = pd.read_csv("2020_crime_parsed_data.csv")
 
 # Adding [lon] and [lat]
 crime["lon"] = None
@@ -20,4 +20,4 @@ pattern = r"\b(" + "|".join(last_words) + r")\b.*"
 crime["Location"] = crime["Location"].str.replace(pattern, r"\1", regex=True, flags=re.IGNORECASE)
 
 #Update
-crime.to_csv("crime_loc_coords_buffer.csv", index=False)
+crime.to_csv("2020_crime_loc_coords.csv", index=False)
