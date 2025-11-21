@@ -24,11 +24,11 @@ def geocode(address):
 for i in range(3000):
 
     # If address is empty, pass
-    if pd.isna(crime.loc[i, "Location"]):
+    if pd.isna(crime.loc[i+30, "Location"]):
         continue
 
-    lon, lat = geocode(crime.loc[i, "Location"]+city_state_country)
-    crime.loc[i, "lon"] = lon
-    crime.loc[i, "lat"] = lat
-    print(f"[{i}] {crime.loc[i, "Location"]+city_state_country} → lon={lon}, lat={lat}")
+    lon, lat = geocode(crime.loc[i+30, "Location"]+city_state_country)
+    crime.loc[i+30, "lon"] = lon
+    crime.loc[i+30, "lat"] = lat
+    print(f"[{i+30}] {crime.loc[i+30, "Location"]+city_state_country} → lon={lon}, lat={lat}")
     crime.to_csv("2024_crime_loc_coords.csv", index=False)
