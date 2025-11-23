@@ -3,7 +3,7 @@ import requests
 from requests.structures import CaseInsensitiveDict
 
 # Reading the file
-crime = pd.read_csv("2024_crime_loc_coords.csv")
+crime = pd.read_csv("2023_crime_loc_coords.csv")
 
 # We're only looking for Berkeley
 city_state_country = ",Berkeley,California,United States"
@@ -21,14 +21,14 @@ def geocode(address):
 
 # Geocoding for every line. Each time update.
 # (IMPORTANT!!!) When restarting, change i
-for i in range(3000):
+for i in range(800):
 
     # If address is empty, pass
-    if pd.isna(crime.loc[i+3359, "Location"]):
+    if pd.isna(crime.loc[i+667, "Location"]):
         continue
 
-    lon, lat = geocode(crime.loc[i+3359, "Location"]+city_state_country)
-    crime.loc[i+3359, "lon"] = lon
-    crime.loc[i+3359, "lat"] = lat
-    print(f"[{i+3359}] {crime.loc[i+3359, "Location"]+city_state_country} → lon={lon}, lat={lat}")
-    crime.to_csv("2024_crime_loc_coords.csv", index=False)
+    lon, lat = geocode(crime.loc[i+667, "Location"]+city_state_country)
+    crime.loc[i+667, "lon"] = lon
+    crime.loc[i+667, "lat"] = lat
+    print(f"[{i+667}] {crime.loc[i+667, "Location"]+city_state_country} → lon={lon}, lat={lat}")
+    crime.to_csv("2023_crime_loc_coords.csv", index=False)
