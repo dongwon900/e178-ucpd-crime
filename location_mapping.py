@@ -21,14 +21,14 @@ def geocode(address):
 
 # Geocoding for every line. Each time update.
 # (IMPORTANT!!!) When restarting, change i
-for i in range(500):
+for i in range(3000):
 
     # If address is empty, pass
-    if pd.isna(crime.loc[i+16, "Location"]):
+    if pd.isna(crime.loc[i+515, "Location"]):
         continue
 
-    lon, lat = geocode(crime.loc[i+16, "Location"]+city_state_country)
-    crime.loc[i+16, "lon"] = lon
-    crime.loc[i+16, "lat"] = lat
-    print(f"[{i+16}] {crime.loc[i+16, "Location"]+city_state_country} → lon={lon}, lat={lat}")
+    lon, lat = geocode(crime.loc[i+515, "Location"]+city_state_country)
+    crime.loc[i+515, "lon"] = lon
+    crime.loc[i+515, "lat"] = lat
+    print(f"[{i+515}] {crime.loc[i+515, "Location"]+city_state_country} → lon={lon}, lat={lat}")
     crime.to_csv("2022_crime_loc_coords.csv", index=False)
