@@ -1,643 +1,643 @@
 Case #,Crime,Occurred (Averaged),Location,lon,lat
-21-00427,594 (A): PC; Vandalism,2021-04-01 01:28,Stanley Hall,,
-21-00428,OA Assist: Outside Agency Assist,2021-03-31 21:00,1040 Jackson St,,
-21-00430,PRODAM: Property Damage,2021-04-01 13:21,Boalt Hall,,
-21-00431,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-03-30 23:37,2601 Warring St,,
-21-00432,10852: VC; Tamper With Vehicle,2021-04-01 15:07,Upper Hearst Structure Upper Hearst Structure Rev 090418,,
-21-00434,594: PC; Malicious Mischief/Vandalism,2021-04-02 03:57,ZELLERBACHCESAR CHAVEZ,,
-21-00435,647 (E): PC; Disorderly Conduct:lodge Without Owners Consent 626: Exclusion Order Issued,2021-04-02 10:42,Hearst Gym Hearst Gym,,
-21-00436,626: Exclusion Order Issued,2021-04-02 13:21,Sather Tower Sather Tower,,
-21-00437,11364: HS; Possess Controlled Substance Paraphernalia,2021-04-02 17:16,1301 S 46th Street,,
-21-00438,OABPD: Outside Assist - BPD 11377 (A): HS; Possess Controlled Substance,2021-04-03 00:24,IFO 2511 Dwight Way,,
+21-00427,594 (A): PC; Vandalism,2021-04-01 01:28,Stanley Hall,-122.25608574376449,37.87396185
+21-00428,OA Assist: Outside Agency Assist,2021-03-31 21:00,1040 Jackson St,-122.272863,37.8708393
+21-00430,PRODAM: Property Damage,2021-04-01 13:21,Boalt Hall,-122.25358,37.86993
+21-00431,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-03-30 23:37,2601 Warring St,-122.250147,37.864041
+21-00432,10852: VC; Tamper With Vehicle,2021-04-01 15:07,Upper Hearst Structure Upper Hearst Structure Rev 090418,-122.257208,37.875746
+21-00434,594: PC; Malicious Mischief/Vandalism,2021-04-02 03:57,ZELLERBACHCESAR CHAVEZ,-122.260048,37.869606
+21-00435,647 (E): PC; Disorderly Conduct:lodge Without Owners Consent 626: Exclusion Order Issued,2021-04-02 10:42,Hearst Gym Hearst Gym,-122.272863,37.8708393
+21-00436,626: Exclusion Order Issued,2021-04-02 13:21,Sather Tower Sather Tower,-122.2578158,37.8720577
+21-00437,11364: HS; Possess Controlled Substance Paraphernalia,2021-04-02 17:16,1301 S 46th Street,-122.272863,37.8708393
+21-00438,OABPD: Outside Assist - BPD 11377 (A): HS; Possess Controlled Substance,2021-04-03 00:24,IFO 2511 Dwight Way,-122.2579725,37.865480649999995
 21-00439,10-42: Welfare Check,2021-04-03 01:25,,,
-21-00440,Caslty: Injury/Illness,2021-04-03 08:18,2650 Durant Av,,
-21-00441,594: PC; Malicious Mischief/Vandalism,2021-03-30 20:44,Mulford Hall,,
-21-00442,Found Prop.: Found Property,2021-04-03 11:21,Pat Browns Grill Pat Browns Grill Rev 090418,,
-21-00443,10-42: Welfare Check,2021-04-04 03:23,Ucpd Ucpd,,
-21-00444,594: PC; Malicious Mischief/Vandalism,2021-04-04 09:03,Sather Tower Sather Tower,,
-21-00445,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-04 09:36,West Crescent West Crescent,,
-21-00446,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-04 08:52,Wellman Brain Imaging Center Wellman Brain Imaging Center,,
-21-00447,594: PC; Malicious Mischief/Vandalism,2021-04-01 04:24,2001 Gayley Rd,,
-21-00448,5150: WI; 72 Hour Mental Health Hold,2021-04-04 20:29,Ucpd Ucpd,,
-21-00449,PRODAM: Property Damage,2021-04-04 23:52,8TH  REDOAK Rev 090418,,
-21-00450,245 (A): PC; Assault With A Deadly Weapon 594 (A)(2): PC; Vandalism: Damage Property 11377 (A): HS; Possess Controlled Substance,2021-04-05 07:02,Landscape Services Building Landscape Services Building Lot,,
-21-00451,459V-F: PC; Burglary Vehicle 664/459V: PC; Attempt: Vehicle Burglary,2021-04-04 00:00,Underhill Lot,,
-21-00452,594: PC; Malicious Mischief/Vandalism,2021-04-01 22:12,2222 Bancroft Wy,,
-21-00453,Lost Prop.: Lost Property,2019-08-18 04:30,Giannini Hall,,
-21-00454,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-05 21:12,Valley Life Science Bldg VLSB Rev 090418,,
-21-00456,Caslty: Injury/Illness,2021-04-06 04:01,1000 6TH 305,,
-21-00457,10852: VC; Tamper With Vehicle,2021-04-04 07:36,805 Kinkead Wy,,
-21-00459,273.6: PC; Violate Court Order to Prevent Domestic Violence 602 (T): PC; Trespass:felon Refuse to Leave Private Property,2021-04-06 17:54,UVA 300 block West End Wy,,
-21-00460,HAZMAT: Hazardous Condition,2021-04-07 07:24,Lbnl Lbnl,,
-21-00461,FIRE: Fire,2021-04-07 09:05,Hearst Mining Building Hearst Mining Building,,
-21-00462,Caslty: Injury/Illness,2021-04-07 11:17,Manville Apts Manville Apts,,
-21-00463,"OUT WRTM: Other Agency Warrant, Misd",2021-04-07 20:28,Lower Sproul Garage Lower Sproul Garage Rev 090418,,
-21-00467,UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd 11377 (A): HS; Possess Controlled Substance 11364: HS; Possess Controlled Substance Paraphernalia,2021-04-08 02:03,2537 Haste St,,
-21-00468,Lost Prop.: Lost Property,2021-03-08 09:21,Wickson Bridge Wickson Bridge,,
-21-00469,484 (A): PC; Theft,2021-03-19 17:00,670 Kula Gulf Wy,,
-21-00470,594: PC; Malicious Mischief/Vandalism,2021-04-08 15:25,Latimer Hall,,
-21-00471,5150: WI; 72 Hour Mental Health Hold,2021-04-08 23:20,Ucpd Ucpd Rev 090418,,
-21-00472,647 (E): PC; Disorderly Conduct:lodge Without Owners Consent 626: Exclusion Order Issued,2021-04-09 03:48,2537 Haste St,,
-21-00473,Caslty: Injury/Illness,2021-04-09 13:19,2222 Bancroft Wy,,
-21-00474,484 G: PC; Theft By Use of Credit Card [over $400] (Amended),2021-03-10 00:00,Lawrence Hall,,
-21-00475,Lost Prop.: Lost Property 22810: PC; Illegal use of tear gas/Tear gas weapon,2021-01-22 01:00,755 Ohlone Av,,
-21-15540,manually added,,Rev 090418,,
-21-00476,459V-F: PC; Burglary Vehicle 487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-04-09 18:00,Lower Hearst Parking Structure Lower Hearst Parking Structure,,
-21-00477,594: PC; Malicious Mischief/Vandalism,2021-04-10 06:34,Mulford Hall,,
-21-00478,Deceased: Deceased Person,2021-04-10 08:41,Peoples Park Peoples Park,,
-21-00479,Caslty: Injury/Illness,2021-04-10 11:02,2400 Durant Av,,
-21-00480,Caslty: Injury/Illness,2021-04-10 12:24,Witter Field Witter Field,,
-21-00481,289: PC; Sexual Penetration By Foreign Object/Etc,2016-05-03 23:00,2424 Channing Wy,,
-21-00483,488: PC; Petty Theft,2021-04-03 04:30,Max Martinez Max Martinez,,
-21-00484,Found Prop.: Found Property,2021-04-10 16:28,Lhs Lhs,,
-21-00485,Caslty: Injury/Illness,2021-04-10 23:55,2650 Durant Av,,
-21-00501,OA Assist: Outside Agency Assist 211: PC; Robbery,2021-04-10 14:46,Grizzly Peak Bl Rev 090418,,
-21-00486,148.4 (1): PC; False Tamper With Fire Alarm (Amended),2021-04-11 00:03,2301 Bancroft Wy,,
-21-00488,594: PC; Malicious Mischief/Vandalism,2021-04-11 09:43,2650 Durant Av,,
-21-00489,594: PC; Malicious Mischief/Vandalism,2021-04-11 11:52,LAW SCHOOL,,
-21-00490,Found Prop.: Found Property,2021-04-11 12:16,LAW SCHOOL,,
-21-00491,459: PC; Burglary: First Degree,2021-04-11 19:44,Underhill Lot,,
-21-00492,5150: WI; 72 Hour Mental Health Hold,2021-04-11 20:46,Ucpd Ucpd,,
-21-00493,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-11 22:57,I House I House Rev 090418,,
-21-00494,594: PC; Malicious Mischief/Vandalism 594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-12 01:15,Sather Tower Sather Tower,,
-21-00495,INFO: Information Only Report,2021-04-12 01:40,485 Ohlone Av,,
-21-00496,10-42: Welfare Check,2021-04-12 11:27,2421 Fulton St,,
-21-00497,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-04-11 03:08,1301 S 46th Street,,
-21-00498,*242: PC; Battery,2021-04-12 14:09,Unit 2,,
-21-00499,459: PC; Burglary: First Degree,2021-04-12 15:30,2650 Durant Av,,
-21-00500,RULES: Rules Violation added,2021-04-12 19:30,2415 Bowditch St,,
-21-00502,484: PC; Theft,2021-04-13 01:04,Max Martinez Max Martinez,,
-21-00503,653 M(A): PC; Annoying Telephone Call:obscene/Threatening,2021-04-10 06:15,Lbnl Lbnl Rev 090418,,
-21-00504,"OUT WRTF: Other Agency Warrant, Fel",2021-04-14 22:54,Lower Sproul Garage Lower Sproul Garage Rev 090418,,
-21-00505,OA Assist: Outside Agency Assist,2021-04-15 01:50,San Pablo Av,,
-21-00506,OABPD: Outside Assist - BPD,2021-04-15 03:21,CHANNINGDANA,,
-21-00507,INFO: Information Only Report,2021-04-15 02:17,2424 Haste St,,
-21-00508,Lost Prop.: Lost Property,2021-04-14 08:00,Stanley Hall,,
-21-00509,484: PC; Theft,2021-04-15 11:14,Hearst Field Annex Hearst Field Annex,,
-21-00510,211: PC; Robbery:second Degree,2021-04-15 13:41,I House I House,,
-21-00511,10-42: Welfare Check 484 G: PC; Theft By Use of Credit Card [over $400] (Amended),2021-04-04 07:14,Haas Pavilion Haas Pavilion RSSP Rssp 2610 Channing Wy,,
-21-00513,11364: HS; Possess Controlled Substance Paraphernalia 11350 (A): HS; Possess Narcotic Controlled Substance 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] 11377 (A): HS; Possess Controlled Substance,2021-04-16 01:46,Underhill Lot,,
-21-00514,Caslty: Injury/Illness,2021-04-16 08:13,Koshland Hall,,
-21-00515,Lost Prop.: Lost Property,2021-04-15 10:00,Latimer Hall,,
-21-00516,Caslty: Injury/Illness,2021-04-16 02:00,Underhill Lot,,
-21-00517,OA Assist: Outside Agency Assist 496 (A): PC; Receive/Etc Known Stolen Property,2021-04-16 10:27,Mclaughlin Hall,,
-21-00518,211: PC; Robbery:second Degree,2021-04-16 13:14,Etcheverry Hall,,
-21-00519,Lost Prop.: Lost Property,2021-04-07 12:30,Koshland Hall,,
-21-00520,Civil: Civil Information Report 166 (A)(4): PC; Contempt of Court:disobey Court Order/Etc,2021-04-16 17:47,Uva Uva,,
-21-00521,OABPD: Outside Assist - BPD 594 (B)(1): PC; Vandalism ($400 Or More),2021-02-23 18:00,1122 Spruce St,,
-21-00522,5150: WI; 72 Hour Mental Health Hold,2021-04-16 23:07,2400 Bancroft Wy,,
-21-00524,Found Prop.: Found Property,2021-04-17 08:35,CAMPUS,,
-21-00525,664/459V: PC; Attempt: Vehicle Burglary,2021-04-17 17:40,Upper Hearst Structure Upper Hearst Structure,,
-21-00526,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-17 21:31,Lower Sproul Pz Lower Sproul Pz,,
-21-00527,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-17 21:59,Ellsworth Parking Structure Structure C,,
-21-00528,626: Exclusion Order Issued,2021-04-17 22:07,Asuc Garage Asuc Garage Rev 090418,,
-21-00530,Caslty: Injury/Illness,2021-04-18 13:51,Valley Life Science Bldg VLSB Rev 090418,,
-21-00532,Rec-Stolen: Recovered Stolen Vehicle,2021-04-19 00:31,Uva Uva,,
-21-00533,148.4 (1): PC; False Tamper With Fire Alarm (Amended),2021-04-19 03:24,2650 Haste St,,
-21-00534,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-19 08:53,West Crescent West Crescent,,
-21-00535,459V-F: PC; Burglary Vehicle,2021-04-15 12:30,2650 Durant Av,,
-21-00536,INFO: Information Only Report,2021-04-19 13:55,Barker Hall,,
-21-00537,488: PC; Petty Theft,2021-03-30 12:00,Max Martinez Max Martinez,,
-21-00538,Caslty: Injury/Illness,2021-04-19 18:47,Ucpd Ucpd,,
-21-00539,594: PC; Malicious Mischief/Vandalism,2021-04-19 21:13,Asuc Garage Asuc Garage,,
-21-00540,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-19 22:08,OCTAGON BRIDGE Rev 090418,,
-21-00541,484 G: PC; Theft By Use of Access Card Information,2021-04-17 17:35,Doe Library Doe Library,,
-21-00542,594: PC; Malicious Mischief/Vandalism,2021-04-20 10:53,Life Science Addition Lsa,,
-21-00543,Caslty: Injury/Illness,2021-04-20 13:14,Botanical Gardens Botanical Gardens,,
-21-00544,245: PC; Assault W/Deadly Weapon,2021-04-20 14:43,Peoples Park Peoples Park,,
-21-00545,Caslty: Injury/Illness,2021-04-20 16:35,Memorial Glade Memorial Glade,,
-21-00546,532: PC; Obtain Money/Etc By False Pretenses [over $400] (Amended),2021-04-20 19:13,2650 Haste St,,
-21-00547,647 (A): PC; Disorderly Conduct:solicit Lewd Act,2021-04-20 20:37,1995 University Av,,
-21-00548,594: PC; Malicious Mischief/Vandalism,2021-04-20 19:38,Dwinelle Hall,,
-21-00549,594: PC; Malicious Mischief/Vandalism,2021-04-20 21:53,Upper Sproul Pz Upper Sproul Pz Rev 090418,,
-21-00550,Caslty: Injury/Illness,2021-04-21 03:19,400 Ohlone Av,,
-21-00551,626: Exclusion Order Issued,2021-04-21 18:38,2224 Piedmont Av,,
-21-00553,5150: WI; 72 Hour Mental Health Hold 647 (E): PC; Disorderly Conduct:lodge Without Owners Consent 211: PC; Robbery,2021-04-21 22:38,670 Kula Gulf Wy,,
-21-17611,manually added,,Rev 090418,,
-21-00554,626.6 (A): PC; Nonstudent Refuse to Leave Campus 647 (E): PC; Disorderly Conduct:lodge Without Owners Consent 485: PC; Appropriate Lost Property,2021-04-22 02:39,2224 Piedmont Av,,
-21-00555,459V-F: PC; Burglary Vehicle 664: PC; Attempt Crime [state Specific Crime],2021-04-22 07:49,2650 Durant Av,,
-21-00556,INFO: Information Only Report,2021-04-22 13:50,Channing Wy,,
-21-00557,Civil: Civil Information Report,2021-04-03 12:00,2030 Dwight Wy,,
-21-00558,653 M: PC; Make Annoying Telephone Calls,2020-11-10 21:37,Campus Campus Rev 090418,,
-21-00559,5150: WI; 72 Hour Mental Health Hold,2021-04-23 00:20,2650 Durant Av,,
-21-00560,Lost Prop.: Lost Property,2021-02-20 13:00,Valley Life Science Bldg Valley Life Science Bldg,,
-21-00561,Caslty: Injury/Illness,2021-04-23 10:26,Manville Apts Manville Apts,,
-21-00562,484 G: PC; Theft By Use of Access Card Information,2021-04-23 11:35,Uva Uva,,
-21-00563,594: PC; Malicious Mischief/Vandalism,2021-04-23 18:44,1050 San Pablo Av,,
-21-00564,626: Exclusion Order Issued 626.6 (A): PC; Nonstudent Refuse to Leave Campus,2021-04-24 01:10,Lower Sproul Garage Lower Sproul Garage,,
-21-00565,594: PC; Malicious Mischief/Vandalism,2021-04-24 04:05,2175 Gayley Rd,,
-21-00566,484: PC; Theft,2021-04-04 12:30,2424 Haste St,,
-21-00568,DEMO: Demonstration,2021-04-24 12:56,Walnut St,,
-21-00567,Caslty: Injury/Illness,2021-04-18 23:15,Sproul Hall,,
-21-00569,DEMO: Demonstration,2021-04-25 11:43,Peoples Park Peoples Park,,
-21-00570,211: PC; Robbery 242: PC; Battery 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime],2021-04-25 18:18,Spieker Pz Spieker Pz,,
-21-00571,5150: WI; 72 Hour Mental Health Hold,2021-04-25 20:04,715 Kinkead Wy,,
-21-00572,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-25 22:38,Ellsworth Parking Structure Structure C Rev 090418,,
-21-00573,5150: WI; 72 Hour Mental Health Hold,2021-04-26 01:18,Ucpd Ucpd,,
-21-00574,Caslty: Injury/Illness,2021-04-26 11:34,California Hall,,
-21-00575,10-42: Welfare Check,2021-04-26 12:50,2650 Durant Av,,
-21-00576,602: PC; Tresspassing 626.6: PC; Nonstudent Refuse to Leave Campus (Amended) 626: Exclusion Order Issued,2021-04-26 22:02,Asuc Garage Asuc Garage,,
-21-00584,484: PC; Theft,2021-04-26 15:35,Valley Life Science Bldg VLSB Rev 090418,,
-21-00579,459V-F: PC; Burglary Vehicle,2021-04-27 09:37,Bancroft Structure Bancroft Structure,,
-21-00580,HAZMAT: Hazardous Condition,2021-04-27 17:51,Latimer Hall,,
-21-00581,PRODAM: Property Damage,2021-04-27 14:37,Minor Hall,,
-21-00578*,459V-F: PC; Burglary Vehicle,2021-04-27 09:10,Coffer Dam Rev 090418,,
-21-00582,OABPD: Outside Assist - BPD 451: PC; Malicious Set/Etc Fire to Property/Etc,2021-04-28 05:22,2124 Kittredge Street,,
-21-00585,INFO: Information Only Report,2021-04-28 10:55,Ucpd Ucpd Rev 090418,,
-21-00586,Caslty: Injury/Illness,2021-04-27 06:00,Ucpd Ucpd,,
-21-00588,532 (A): PC; Obtain Money/Etc By False Pretenses [over $400] 664: PC; Attempt Crime [state Specific Crime],2021-04-26 23:52,Campus,,
-21-00589,OA Assist: Outside Agency Assist 594: PC; Malicious Mischief/Vandalism Aggravated Assault added,2020-12-19 11:57,1800 Powell St,,
-21-00591,459: PC; Burglary: First Degree,2021-04-29 14:30,Foothill Lot,,
-21-00592,594 (B)(2)(A): PC; Vandalism Less Than $400,2021-04-30 11:19,2400 Durant Av,,
-21-00593,273 A: PC; Willful Cruelty to Child,2021-04-28 00:00,2457 Bancroft Way,,
-21-00598,MP: Missing Person,2021-04-30 23:42,2650 Haste St,,
-21-01013,"OUT WRTF: Other Agency Warrant, Fel",2021-08-01 09:09,Centeroxford,,
-21-01014,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-01 08:53,Upper Sproul Pz Upper Sproul Pz,,
-21-01015,594: PC; Malicious Mischief/Vandalism,2021-08-01 12:09,Dwinelle Hall,,
-21-01016,INFO: Information Only Report,2021-08-01 15:08,Ucpd Ucpd,,
-21-01017,594: PC; Malicious Mischief/Vandalism,2021-08-01 21:27,Underhill Lot,,
-21-01018,415 (2): PC; Disturb By Loud/Unreasonable Noise,2021-08-02 07:41,West Crescent West Crescent,,
-21-01019,Lost Prop.: Lost Property,2020-07-01 12:00,Soda Hall,,
-21-01020,Lost Prop.: Lost Property,2021-01-20 12:00,Unknown,,
-21-01021,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-30 21:30,Minor Hall,,
-21-01022,Lost Prop.: Lost Property,2021-08-02 13:51,Stanley Hall,,
-21-01023,Lost Prop.: Lost Property,2021-08-02 11:00,Latimer Hall,,
-21-01024,MISC: Miscellaneous Report,2021-08-02 12:00,Leconte Hall,,
-21-01025,594: PC; Malicious Mischief/Vandalism,2021-08-03 00:31,Moses Hall,,
-21-01027,Caslty: Injury/Illness,2021-08-03 08:21,2650 Haste St,,
+21-00440,Caslty: Injury/Illness,2021-04-03 08:18,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00441,594: PC; Malicious Mischief/Vandalism,2021-03-30 20:44,Mulford Hall,-122.26429165961542,37.872687049999996
+21-00442,Found Prop.: Found Property,2021-04-03 11:21,Pat Browns Grill Pat Browns Grill Rev 090418,-122.272863,37.8708393
+21-00443,10-42: Welfare Check,2021-04-04 03:23,Ucpd Ucpd,-122.272863,37.8708393
+21-00444,594: PC; Malicious Mischief/Vandalism,2021-04-04 09:03,Sather Tower Sather Tower,-122.2578158,37.8720577
+21-00445,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-04 09:36,West Crescent West Crescent,-122.272863,37.8708393
+21-00446,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-04 08:52,Wellman Brain Imaging Center Wellman Brain Imaging Center,-122.26297964999999,37.87372715
+21-00447,594: PC; Malicious Mischief/Vandalism,2021-04-01 04:24,2001 Gayley Rd,-122.25611709380318,37.87475781058154
+21-00448,5150: WI; 72 Hour Mental Health Hold,2021-04-04 20:29,Ucpd Ucpd,-122.272863,37.8708393
+21-00449,PRODAM: Property Damage,2021-04-04 23:52,8TH  REDOAK Rev 090418,-122.272863,37.8708393
+21-00450,245 (A): PC; Assault With A Deadly Weapon 594 (A)(2): PC; Vandalism: Damage Property 11377 (A): HS; Possess Controlled Substance,2021-04-05 07:02,Landscape Services Building Landscape Services Building Lot,-122.272863,37.8708393
+21-00451,459V-F: PC; Burglary Vehicle 664/459V: PC; Attempt: Vehicle Burglary,2021-04-04 00:00,Underhill Lot,-122.272863,37.8708393
+21-00452,594: PC; Malicious Mischief/Vandalism,2021-04-01 22:12,2222 Bancroft Wy,-122.26741212033184,37.86774458786539
+21-00453,Lost Prop.: Lost Property,2019-08-18 04:30,Giannini Hall,-122.26226332170472,37.873443699999996
+21-00454,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-05 21:12,Valley Life Science Bldg VLSB Rev 090418,-122.272863,37.8708393
+21-00456,Caslty: Injury/Illness,2021-04-06 04:01,1000 6TH 305,-122.272863,37.8708393
+21-00457,10852: VC; Tamper With Vehicle,2021-04-04 07:36,805 Kinkead Wy,-122.272863,37.8708393
+21-00459,273.6: PC; Violate Court Order to Prevent Domestic Violence 602 (T): PC; Trespass:felon Refuse to Leave Private Property,2021-04-06 17:54,UVA 300 block West End Wy,-122.272863,37.8708393
+21-00460,HAZMAT: Hazardous Condition,2021-04-07 07:24,Lbnl Lbnl,-122.2486,37.877132
+21-00461,FIRE: Fire,2021-04-07 09:05,Hearst Mining Building Hearst Mining Building,-122.25726679499158,37.874424950000005
+21-00462,Caslty: Injury/Illness,2021-04-07 11:17,Manville Apts Manville Apts,-122.266991,37.865684
+21-00463,"OUT WRTM: Other Agency Warrant, Misd",2021-04-07 20:28,Lower Sproul Garage Lower Sproul Garage Rev 090418,-122.260471,37.869253
+21-00467,UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd 11377 (A): HS; Possess Controlled Substance 11364: HS; Possess Controlled Substance Paraphernalia,2021-04-08 02:03,2537 Haste St,-122.257808,37.866227
+21-00468,Lost Prop.: Lost Property,2021-03-08 09:21,Wickson Bridge Wickson Bridge,-122.272863,37.8708393
+21-00469,484 (A): PC; Theft,2021-03-19 17:00,670 Kula Gulf Wy,-122.303732,37.8838124
+21-00470,594: PC; Malicious Mischief/Vandalism,2021-04-08 15:25,Latimer Hall,-122.255914566482,37.87310845
+21-00471,5150: WI; 72 Hour Mental Health Hold,2021-04-08 23:20,Ucpd Ucpd Rev 090418,-122.272863,37.8708393
+21-00472,647 (E): PC; Disorderly Conduct:lodge Without Owners Consent 626: Exclusion Order Issued,2021-04-09 03:48,2537 Haste St,-122.257808,37.866227
+21-00473,Caslty: Injury/Illness,2021-04-09 13:19,2222 Bancroft Wy,-122.26741212033184,37.86774458786539
+21-00474,484 G: PC; Theft By Use of Credit Card [over $400] (Amended),2021-03-10 00:00,Lawrence Hall,-122.2464633,37.880286
+21-00475,Lost Prop.: Lost Property 22810: PC; Illegal use of tear gas/Tear gas weapon,2021-01-22 01:00,755 Ohlone Av,-122.272863,37.8708393
+21-15540,manually added,,Rev 090418,-122.272863,37.8708393
+21-00476,459V-F: PC; Burglary Vehicle 487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-04-09 18:00,Lower Hearst Parking Structure Lower Hearst Parking Structure,-122.257208,37.875746
+21-00477,594: PC; Malicious Mischief/Vandalism,2021-04-10 06:34,Mulford Hall,-122.26429165961542,37.872687049999996
+21-00478,Deceased: Deceased Person,2021-04-10 08:41,Peoples Park Peoples Park,-122.257299,37.865746
+21-00479,Caslty: Injury/Illness,2021-04-10 11:02,2400 Durant Av,-122.260114,37.86724
+21-00480,Caslty: Injury/Illness,2021-04-10 12:24,Witter Field Witter Field,-122.249073,37.871156
+21-00481,289: PC; Sexual Penetration By Foreign Object/Etc,2016-05-03 23:00,2424 Channing Wy,-122.25951811764706,37.86675558823529
+21-00483,488: PC; Petty Theft,2021-04-03 04:30,Max Martinez Max Martinez,-122.272863,37.8708393
+21-00484,Found Prop.: Found Property,2021-04-10 16:28,Lhs Lhs,-122.272863,37.8708393
+21-00485,Caslty: Injury/Illness,2021-04-10 23:55,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00501,OA Assist: Outside Agency Assist 211: PC; Robbery,2021-04-10 14:46,Grizzly Peak Bl Rev 090418,-122.265274,37.898964
+21-00486,148.4 (1): PC; False Tamper With Fire Alarm (Amended),2021-04-11 00:03,2301 Bancroft Wy,-122.260816,37.868605
+21-00488,594: PC; Malicious Mischief/Vandalism,2021-04-11 09:43,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00489,594: PC; Malicious Mischief/Vandalism,2021-04-11 11:52,LAW SCHOOL,-122.25329425089444,37.869924600000004
+21-00490,Found Prop.: Found Property,2021-04-11 12:16,LAW SCHOOL,-122.25329425089444,37.869924600000004
+21-00491,459: PC; Burglary: First Degree,2021-04-11 19:44,Underhill Lot,-122.272863,37.8708393
+21-00492,5150: WI; 72 Hour Mental Health Hold,2021-04-11 20:46,Ucpd Ucpd,-122.272863,37.8708393
+21-00493,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-11 22:57,I House I House Rev 090418,-122.272863,37.8708393
+21-00494,594: PC; Malicious Mischief/Vandalism 594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-12 01:15,Sather Tower Sather Tower,-122.2578158,37.8720577
+21-00495,INFO: Information Only Report,2021-04-12 01:40,485 Ohlone Av,-122.272863,37.8708393
+21-00496,10-42: Welfare Check,2021-04-12 11:27,2421 Fulton St,-122.2654031664897,37.865340804454625
+21-00497,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-04-11 03:08,1301 S 46th Street,-122.272863,37.8708393
+21-00498,*242: PC; Battery,2021-04-12 14:09,Unit 2,-122.272863,37.8708393
+21-00499,459: PC; Burglary: First Degree,2021-04-12 15:30,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00500,RULES: Rules Violation added,2021-04-12 19:30,2415 Bowditch St,-122.25621929426624,37.866137951654
+21-00502,484: PC; Theft,2021-04-13 01:04,Max Martinez Max Martinez,-122.272863,37.8708393
+21-00503,653 M(A): PC; Annoying Telephone Call:obscene/Threatening,2021-04-10 06:15,Lbnl Lbnl Rev 090418,-122.244765,37.87662
+21-00504,"OUT WRTF: Other Agency Warrant, Fel",2021-04-14 22:54,Lower Sproul Garage Lower Sproul Garage Rev 090418,-122.260471,37.869253
+21-00505,OA Assist: Outside Agency Assist,2021-04-15 01:50,San Pablo Av,-122.29394243905433,37.87445438787536
+21-00506,OABPD: Outside Assist - BPD,2021-04-15 03:21,CHANNINGDANA,-122.272863,37.8708393
+21-00507,INFO: Information Only Report,2021-04-15 02:17,2424 Haste St,-122.25966220370195,37.86568885
+21-00508,Lost Prop.: Lost Property,2021-04-14 08:00,Stanley Hall,-122.25608574376449,37.87396185
+21-00509,484: PC; Theft,2021-04-15 11:14,Hearst Field Annex Hearst Field Annex,-122.2581812086218,37.86943305
+21-00510,211: PC; Robbery:second Degree,2021-04-15 13:41,I House I House,-122.272863,37.8708393
+21-00511,10-42: Welfare Check 484 G: PC; Theft By Use of Credit Card [over $400] (Amended),2021-04-04 07:14,Haas Pavilion Haas Pavilion RSSP Rssp 2610 Channing Wy,-122.2563729387755,37.867161959183676
+21-00513,11364: HS; Possess Controlled Substance Paraphernalia 11350 (A): HS; Possess Narcotic Controlled Substance 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] 11377 (A): HS; Possess Controlled Substance,2021-04-16 01:46,Underhill Lot,-122.272863,37.8708393
+21-00514,Caslty: Injury/Illness,2021-04-16 08:13,Koshland Hall,-122.26488980375231,37.87392285
+21-00515,Lost Prop.: Lost Property,2021-04-15 10:00,Latimer Hall,-122.255914566482,37.87310845
+21-00516,Caslty: Injury/Illness,2021-04-16 02:00,Underhill Lot,-122.272863,37.8708393
+21-00517,OA Assist: Outside Agency Assist 496 (A): PC; Receive/Etc Known Stolen Property,2021-04-16 10:27,Mclaughlin Hall,-122.25905005086963,37.8738328
+21-00518,211: PC; Robbery:second Degree,2021-04-16 13:14,Etcheverry Hall,-122.25927741801024,37.87568245
+21-00519,Lost Prop.: Lost Property,2021-04-07 12:30,Koshland Hall,-122.26488980375231,37.87392285
+21-00520,Civil: Civil Information Report 166 (A)(4): PC; Contempt of Court:disobey Court Order/Etc,2021-04-16 17:47,Uva Uva,-122.272863,37.8708393
+21-00521,OABPD: Outside Assist - BPD 594 (B)(1): PC; Vandalism ($400 Or More),2021-02-23 18:00,1122 Spruce St,-122.267175,37.887943
+21-00522,5150: WI; 72 Hour Mental Health Hold,2021-04-16 23:07,2400 Bancroft Wy,-122.2609415,37.8683702
+21-00524,Found Prop.: Found Property,2021-04-17 08:35,CAMPUS,-122.288608,37.868541
+21-00525,664/459V: PC; Attempt: Vehicle Burglary,2021-04-17 17:40,Upper Hearst Structure Upper Hearst Structure,-122.25735335427163,37.8757656
+21-00526,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-17 21:31,Lower Sproul Pz Lower Sproul Pz,-122.26022867883118,37.86920445
+21-00527,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-17 21:59,Ellsworth Parking Structure Structure C,-122.257208,37.875746
+21-00528,626: Exclusion Order Issued,2021-04-17 22:07,Asuc Garage Asuc Garage Rev 090418,-122.272863,37.8708393
+21-00530,Caslty: Injury/Illness,2021-04-18 13:51,Valley Life Science Bldg VLSB Rev 090418,-122.272863,37.8708393
+21-00532,Rec-Stolen: Recovered Stolen Vehicle,2021-04-19 00:31,Uva Uva,-122.272863,37.8708393
+21-00533,148.4 (1): PC; False Tamper With Fire Alarm (Amended),2021-04-19 03:24,2650 Haste St,-122.25600252497779,37.866474196443825
+21-00534,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-19 08:53,West Crescent West Crescent,-122.272863,37.8708393
+21-00535,459V-F: PC; Burglary Vehicle,2021-04-15 12:30,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00536,INFO: Information Only Report,2021-04-19 13:55,Barker Hall,-122.26548032875243,37.8739629
+21-00537,488: PC; Petty Theft,2021-03-30 12:00,Max Martinez Max Martinez,-122.272863,37.8708393
+21-00538,Caslty: Injury/Illness,2021-04-19 18:47,Ucpd Ucpd,-122.272863,37.8708393
+21-00539,594: PC; Malicious Mischief/Vandalism,2021-04-19 21:13,Asuc Garage Asuc Garage,-122.272863,37.8708393
+21-00540,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-19 22:08,OCTAGON BRIDGE Rev 090418,-122.261769,37.870303
+21-00541,484 G: PC; Theft By Use of Access Card Information,2021-04-17 17:35,Doe Library Doe Library,-122.25949842187501,37.872192150000004
+21-00542,594: PC; Malicious Mischief/Vandalism,2021-04-20 10:53,Life Science Addition Lsa,-122.272863,37.8708393
+21-00543,Caslty: Injury/Illness,2021-04-20 13:14,Botanical Gardens Botanical Gardens,-122.272863,37.8708393
+21-00544,245: PC; Assault W/Deadly Weapon,2021-04-20 14:43,Peoples Park Peoples Park,-122.257299,37.865746
+21-00545,Caslty: Injury/Illness,2021-04-20 16:35,Memorial Glade Memorial Glade,-122.259436,37.873221
+21-00546,532: PC; Obtain Money/Etc By False Pretenses [over $400] (Amended),2021-04-20 19:13,2650 Haste St,-122.25600252497779,37.866474196443825
+21-00547,647 (A): PC; Disorderly Conduct:solicit Lewd Act,2021-04-20 20:37,1995 University Av,-122.2717944,37.8722619
+21-00548,594: PC; Malicious Mischief/Vandalism,2021-04-20 19:38,Dwinelle Hall,-122.2607432628604,37.8707285
+21-00549,594: PC; Malicious Mischief/Vandalism,2021-04-20 21:53,Upper Sproul Pz Upper Sproul Pz Rev 090418,-122.272863,37.8708393
+21-00550,Caslty: Injury/Illness,2021-04-21 03:19,400 Ohlone Av,-122.272863,37.8708393
+21-00551,626: Exclusion Order Issued,2021-04-21 18:38,2224 Piedmont Av,-122.25285201381072,37.87092055805702
+21-00553,5150: WI; 72 Hour Mental Health Hold 647 (E): PC; Disorderly Conduct:lodge Without Owners Consent 211: PC; Robbery,2021-04-21 22:38,670 Kula Gulf Wy,-122.303732,37.8838124
+21-17611,manually added,,Rev 090418,-122.272863,37.8708393
+21-00554,626.6 (A): PC; Nonstudent Refuse to Leave Campus 647 (E): PC; Disorderly Conduct:lodge Without Owners Consent 485: PC; Appropriate Lost Property,2021-04-22 02:39,2224 Piedmont Av,-122.25285201381072,37.87092055805702
+21-00555,459V-F: PC; Burglary Vehicle 664: PC; Attempt Crime [state Specific Crime],2021-04-22 07:49,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00556,INFO: Information Only Report,2021-04-22 13:50,Channing Wy,-122.29569816420656,37.86174439180047
+21-00557,Civil: Civil Information Report,2021-04-03 12:00,2030 Dwight Wy,-122.26830034519182,37.8636745
+21-00558,653 M: PC; Make Annoying Telephone Calls,2020-11-10 21:37,Campus Campus Rev 090418,-122.272863,37.8708393
+21-00559,5150: WI; 72 Hour Mental Health Hold,2021-04-23 00:20,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00560,Lost Prop.: Lost Property,2021-02-20 13:00,Valley Life Science Bldg Valley Life Science Bldg,-122.272863,37.8708393
+21-00561,Caslty: Injury/Illness,2021-04-23 10:26,Manville Apts Manville Apts,-122.266991,37.865684
+21-00562,484 G: PC; Theft By Use of Access Card Information,2021-04-23 11:35,Uva Uva,-122.272863,37.8708393
+21-00563,594: PC; Malicious Mischief/Vandalism,2021-04-23 18:44,1050 San Pablo Av,-122.2977954,37.8867394
+21-00564,626: Exclusion Order Issued 626.6 (A): PC; Nonstudent Refuse to Leave Campus,2021-04-24 01:10,Lower Sproul Garage Lower Sproul Garage,-122.2606309,37.8688322
+21-00565,594: PC; Malicious Mischief/Vandalism,2021-04-24 04:05,2175 Gayley Rd,-122.25611709380318,37.87475781058154
+21-00566,484: PC; Theft,2021-04-04 12:30,2424 Haste St,-122.25966220370195,37.86568885
+21-00568,DEMO: Demonstration,2021-04-24 12:56,Walnut St,-122.26785726103414,37.87718833058817
+21-00567,Caslty: Injury/Illness,2021-04-18 23:15,Sproul Hall,-122.25877388866843,37.8696038
+21-00569,DEMO: Demonstration,2021-04-25 11:43,Peoples Park Peoples Park,-122.257299,37.865746
+21-00570,211: PC; Robbery 242: PC; Battery 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime],2021-04-25 18:18,Spieker Pz Spieker Pz,-122.261621,37.869196
+21-00571,5150: WI; 72 Hour Mental Health Hold,2021-04-25 20:04,715 Kinkead Wy,-122.272863,37.8708393
+21-00572,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-04-25 22:38,Ellsworth Parking Structure Structure C Rev 090418,-122.272863,37.8708393
+21-00573,5150: WI; 72 Hour Mental Health Hold,2021-04-26 01:18,Ucpd Ucpd,-122.272863,37.8708393
+21-00574,Caslty: Injury/Illness,2021-04-26 11:34,California Hall,-122.26040950733994,37.87199425
+21-00575,10-42: Welfare Check,2021-04-26 12:50,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00576,602: PC; Tresspassing 626.6: PC; Nonstudent Refuse to Leave Campus (Amended) 626: Exclusion Order Issued,2021-04-26 22:02,Asuc Garage Asuc Garage,-122.272863,37.8708393
+21-00584,484: PC; Theft,2021-04-26 15:35,Valley Life Science Bldg VLSB Rev 090418,-122.272863,37.8708393
+21-00579,459V-F: PC; Burglary Vehicle,2021-04-27 09:37,Bancroft Structure Bancroft Structure,-122.272863,37.8708393
+21-00580,HAZMAT: Hazardous Condition,2021-04-27 17:51,Latimer Hall,-122.255914566482,37.87310845
+21-00581,PRODAM: Property Damage,2021-04-27 14:37,Minor Hall,-122.25473783871234,37.8715126
+21-00578*,459V-F: PC; Burglary Vehicle,2021-04-27 09:10,Coffer Dam Rev 090418,-122.272863,37.8708393
+21-00582,OABPD: Outside Assist - BPD 451: PC; Malicious Set/Etc Fire to Property/Etc,2021-04-28 05:22,2124 Kittredge Street,-122.2672537,37.8684638
+21-00585,INFO: Information Only Report,2021-04-28 10:55,Ucpd Ucpd Rev 090418,-122.272863,37.8708393
+21-00586,Caslty: Injury/Illness,2021-04-27 06:00,Ucpd Ucpd,-122.272863,37.8708393
+21-00588,532 (A): PC; Obtain Money/Etc By False Pretenses [over $400] 664: PC; Attempt Crime [state Specific Crime],2021-04-26 23:52,Campus,-122.288608,37.868541
+21-00589,OA Assist: Outside Agency Assist 594: PC; Malicious Mischief/Vandalism Aggravated Assault added,2020-12-19 11:57,1800 Powell St,-122.272863,37.8708393
+21-00591,459: PC; Burglary: First Degree,2021-04-29 14:30,Foothill Lot,-122.25298596214569,37.8741938
+21-00592,594 (B)(2)(A): PC; Vandalism Less Than $400,2021-04-30 11:19,2400 Durant Av,-122.260114,37.86724
+21-00593,273 A: PC; Willful Cruelty to Child,2021-04-28 00:00,2457 Bancroft Way,-122.2596743651256,37.868744466738576
+21-00598,MP: Missing Person,2021-04-30 23:42,2650 Haste St,-122.25600252497779,37.866474196443825
+21-01013,"OUT WRTF: Other Agency Warrant, Fel",2021-08-01 09:09,Centeroxford,-122.272863,37.8708393
+21-01014,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-01 08:53,Upper Sproul Pz Upper Sproul Pz,-122.259346,37.869473
+21-01015,594: PC; Malicious Mischief/Vandalism,2021-08-01 12:09,Dwinelle Hall,-122.2607432628604,37.8707285
+21-01016,INFO: Information Only Report,2021-08-01 15:08,Ucpd Ucpd,-122.272863,37.8708393
+21-01017,594: PC; Malicious Mischief/Vandalism,2021-08-01 21:27,Underhill Lot,-122.272863,37.8708393
+21-01018,415 (2): PC; Disturb By Loud/Unreasonable Noise,2021-08-02 07:41,West Crescent West Crescent,-122.272863,37.8708393
+21-01019,Lost Prop.: Lost Property,2020-07-01 12:00,Soda Hall,-122.25871364443108,37.875624599999995
+21-01020,Lost Prop.: Lost Property,2021-01-20 12:00,Unknown,-122.272863,37.8708393
+21-01021,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-30 21:30,Minor Hall,-122.25473783871234,37.8715126
+21-01022,Lost Prop.: Lost Property,2021-08-02 13:51,Stanley Hall,-122.25608574376449,37.87396185
+21-01023,Lost Prop.: Lost Property,2021-08-02 11:00,Latimer Hall,-122.255914566482,37.87310845
+21-01024,MISC: Miscellaneous Report,2021-08-02 12:00,Leconte Hall,-122.25719,37.8727
+21-01025,594: PC; Malicious Mischief/Vandalism,2021-08-03 00:31,Moses Hall,-122.2581896639094,37.8709565
+21-01027,Caslty: Injury/Illness,2021-08-03 08:21,2650 Haste St,-122.25600252497779,37.866474196443825
 21-01028,OA-SEX ASSAULT: Outside Assist - Sexual Assault 261.5: PC; Unlawful Sexual Intercourse With Minor (Amended) 287 (B)(1): PC; Oral Copulation: W/Person Under 18 Yrs Scanned: Add Scanned Documents to Report,2021-07-28 15:00,Lake Anza Trails,,
-21-01029,Lost Prop.: Lost Property,2021-07-02 12:30,Spieker Pool Spieker Pool,,
-21-01030,Lost Prop.: Lost Property,2021-06-10 15:00,Tan Hall,,
-21-01031,PRODAM: Property Damage,2021-07-23 14:40,Fulton St,,
-21-01032,Caslty: Injury/Illness,2021-07-30 08:00,Sproul Hall,,
-21-01033,Lost Prop.: Lost Property,2021-07-16 10:30,Latimer Hall,,
-21-01034,459V-F: PC; Burglary Vehicle,2021-08-03 20:06,Ellsworth Parking Structure Ellsworth Parking Structure,,
-21-01040,OA Assist: Outside Agency Assist 273.6: PC; Violate Court Order to Prevent Domestic Violence,2021-08-01 21:10,2400 BLK BANCROFT Rev 090418,,
-21-01035,484: PC; Petty Theft,2021-08-04 07:27,Peoples Park Peoples Park,,
-21-01037,459V-F: PC; Burglary Vehicle,2021-08-04 02:00,555 Ohlone Av,,
-21-01038,459V-F: PC; Burglary Vehicle,2021-08-04 21:19,980 Ohlone Av,,
-21-01039,OA-VEH BURGLARY: Outside Assist - Vehicle Burglary,2021-08-04 23:05,Bancroft WAY,,
-21-01041,"UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd 626: Exclusion Order Issued OUT WRTM: Other Agency Warrant, Misd SUPP: Supplemental Reports",2021-08-05 13:40,Haas Pavilion Haas Pavilion,,
-21-01042,PRODAM: Property Damage,2021-08-05 13:43,Lbnl PARKING H2 Lbnl,,
+21-01029,Lost Prop.: Lost Property,2021-07-02 12:30,Spieker Pool Spieker Pool,-122.26211592687599,37.86872835
+21-01030,Lost Prop.: Lost Property,2021-06-10 15:00,Tan Hall,-122.25645027921993,37.87309405
+21-01031,PRODAM: Property Damage,2021-07-23 14:40,Fulton St,-122.265947,37.86842
+21-01032,Caslty: Injury/Illness,2021-07-30 08:00,Sproul Hall,-122.25877388866843,37.8696038
+21-01033,Lost Prop.: Lost Property,2021-07-16 10:30,Latimer Hall,-122.255914566482,37.87310845
+21-01034,459V-F: PC; Burglary Vehicle,2021-08-03 20:06,Ellsworth Parking Structure Ellsworth Parking Structure,-122.2624592316722,37.8659586
+21-01040,OA Assist: Outside Agency Assist 273.6: PC; Violate Court Order to Prevent Domestic Violence,2021-08-01 21:10,2400 BLK BANCROFT Rev 090418,-122.272863,37.8708393
+21-01035,484: PC; Petty Theft,2021-08-04 07:27,Peoples Park Peoples Park,-122.257299,37.865746
+21-01037,459V-F: PC; Burglary Vehicle,2021-08-04 02:00,555 Ohlone Av,-122.272863,37.8708393
+21-01038,459V-F: PC; Burglary Vehicle,2021-08-04 21:19,980 Ohlone Av,-122.272863,37.8708393
+21-01039,OA-VEH BURGLARY: Outside Assist - Vehicle Burglary,2021-08-04 23:05,Bancroft WAY,-122.28565157020569,37.86528873030079
+21-01041,"UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd 626: Exclusion Order Issued OUT WRTM: Other Agency Warrant, Misd SUPP: Supplemental Reports",2021-08-05 13:40,Haas Pavilion Haas Pavilion,-122.26220609544905,37.86939045
+21-01042,PRODAM: Property Damage,2021-08-05 13:43,Lbnl PARKING H2 Lbnl,-122.298278,37.861669
 21-01043,488/490.5 (A): PC; Petty Theft Retail Merchandise,2021-08-05 15:37,Mlk Mlk,,
-21-01044,487 (A): PC; Grand Theft:money/Labor/Property Over $950 OABPD: Outside Assist - BPD,2021-08-05 17:32,2333 College Av,,
-21-01045,PRODAM: Property Damage,2021-08-06 05:35,Ucpd Ucpd,,
-21-01047,488: PC; Petty Theft,2021-08-06 09:37,Memorial Stadium Memorial Stadium,,
-21-01048,PRODAM: Property Damage,2021-08-06 19:06,Lower Sproul Garage Lower Sproul Garage Rev 090418,,
-21-01049,Found Prop.: Found Property,2021-08-07 02:37,675 Kula Gulf Wy,,
-21-01051,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-07 13:37,Haas Pavilion Haas Pavilion,,
-21-01052,PRODAM: Property Damage,2021-08-06 18:00,1110 Jackson St,,
-21-01053,Caslty: Injury/Illness,2021-08-07 20:53,Ucpd Ucpd,,
-21-01054,664/487: PC; Attempt Grand Theft 10852: VC; Tamper With Vehicle 487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-07 23:16,625 West End Wy,,
-21-01055,INFO: Information Only Report,2021-08-08 15:09,810 Ohlone Av,,
-21-01056,OA-SEX ASSAULT: Outside Assist - Sexual Assault,2020-03-16 03:00,2727 Channing Wy,,
-21-01057,HAZMAT: Hazardous Condition,2021-08-08 18:31,Latimer Hall,,
-21-01058,594: PC; Malicious Mischief/Vandalism 487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-08 16:02,South Hall,,
-21-01059,INFO: Information Only Report,2021-08-09 04:46,Hearst Mining Building Hearst Mining Building,,
-21-01060,647 (E): PC; Disorderly Conduct:lodge Without Owners Consent,2021-06-14 04:40,2536 Channing Wy,,
-21-01061,484 G: PC; Theft By Use of Credit Card [over $400] (Amended),2021-08-09 09:00,1608 Fourth St,,
-21-01062,664/10851: PC; Attempt to Operate Vehicle W/O Owner's Consent (Amended),2021-02-18 08:45,605 Ohlone Av,,
-21-01046,"594 (A): PC; Vandalism [$5, 000 Or Over] SUPP: Supplemental Reports 594: PC; Malicious Mischief/Vandalism",2021-08-06 04:00,Sproul Hall,,
-21-01063,664/459: PC; Attempted Burglary: First Degree,2021-08-09 23:30,Ellsworth Parking Structure Ellsworth Parking Structure,,
-21-01064,Lost Prop.: Lost Property,2019-12-01 12:00,Life Science Addition Life Science Addition,,
-21-01065,290 (A): PC; Duty to Register As Sex Offender,2021-08-10 13:23,Ucpd Ucpd,,
-21-01066,459.5 (A): PC; Burglary: Retail Merchandise Less Than $950,2021-08-10 14:43,Mlk Mlk Rev 090418,,
-21-01067,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-11 10:16,Hildebrand Hall,,
-21-01068,484 G: PC; Theft By Use of Access Card Information,2021-07-28 00:01,Doe Library Doe Library,,
-21-01071,459V-F: PC; Burglary Vehicle,2021-08-11 11:06,Foothill Lot,,
-21-01069,602 (M): PC; Trespass:drive On Private Property (Amended) 626: Exclusion Order Issued,2021-08-12 06:19,Anthropology  Art Practice Building Anthropology,,
-21-01070,FIRE: Fire,2021-08-12 09:08,Uva Uva,,
-21-01072,Lost Prop.: Lost Property,2020-04-16 21:20,Giannini Hall,,
-21-01073,594 (A): PC; Vandalism Scanned: Add Scanned Documents to Report,2021-08-11 23:15,Strawberry Center Strawberry Center,,
-21-01074,487 (A): PC; Grand Theft:money/Labor/Property Over $950 Scanned: Add Scanned Documents to Report SUPP: Supplemental Reports,2021-08-12 08:45,Lower Hearst Structure Lower Hearst Structure,,
-21-01075,INFO: Information Only Report 273.5 (A): PC; Inflict Corporal Injury On Spouse/Cohabitant,2021-08-09 12:00,600 block West End Wy,,
-21-01076,SUPP: Supplemental Reports 242: PC; Battery 243 (B): PC; Battery On Peace Officer/Fireman (Amended) 422.6 (A): PC; Violate Civil Rights By Force Or Threat of Force INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-08-12 16:35,Bancroft Wy,,
-21-01079,484: PC; Theft,2021-08-12 01:00,515 West End Wy,,
-21-01077,Found Prop.: Found Property Scanned: Add Scanned Documents to Report,2021-08-13 00:06,Hildebrand Hall,,
-21-01078,374.3 (A): PC; Dump Waste On Public/Private Road/Property:commercial Amount (Bl,2021-08-04 07:15,2400 Durant Av,,
-21-01080,Caslty: Injury/Illness,2021-08-13 20:25,2001 Gayley Rd,,
-21-01081,RULES: Rules Violation,2021-08-14 00:06,2415 Dwight Wy,,
-21-01082,484 (A): PC; Theft,2021-08-14 12:05,UCPD UCPD,,
-21-01083,594: PC; Malicious Mischief/Vandalism,2021-08-14 12:41,2175 Gayley Rd,,
-21-01085,5150: WI; 72 Hour Mental Health Hold 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] 314.1: PC; Indecent Exposure W/Prior Scanned: Add Scanned Documents to Report,2021-08-15 01:50,Underhill Parking Structure Underhill Parking Structure,,
-21-01086,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-15 02:09,Eshleman Hall,,
-21-01087,273.5 (A): PC; Inflict Corporal Injury On Spouse/Cohabitant,2021-08-09 12:00,600 block West End Wy,,
-21-01088,PRODAM: Property Damage,2021-08-15 15:21,1301 S 46th St,,
-21-01089,5150: WI; 72 Hour Mental Health Hold Scanned: Add Scanned Documents to Report,2021-08-15 15:47,UCPD UCPD,,
-21-01090,Caslty: Injury/Illness,2021-08-15 20:35,Peoples Park Peoples Park Rev 090418,,
-21-01091,594 (A)(2): PC; Vandalism: Damage Property,2021-08-15 23:02,1125 Jackson St,,
-21-01094,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-15 21:00,555 Ohlone Av,,
-21-01095,Lost Prop.: Lost Property,2021-08-11 12:00,Stanley Hall,,
-21-01096,10852: VC; Tamper With Vehicle SUPP: Supplemental Reports,2021-08-15 17:00,Epworth Lot,,
-21-01097,602 (M): PC; Trespass:drive On Private Property (Amended) Scanned: Add Scanned Documents to Report,2021-08-17 11:09,Lbnl Lbnl,,
-21-01098,459V-F: PC; Burglary Vehicle,2021-08-17 15:52,Ellsworth Parking Structure Structure C,,
-21-01099,"OUT WRTF: Other Agency Warrant, Fel",2021-08-17 17:36,Eighth St,,
-21-01100,459V-F: PC; Burglary Vehicle,2021-08-17 18:15,Ellsworth Parking Structure Ellsworth Parking Structure,,
-21-01101,10853: VC; Malicious Mischief to Vehicle,2021-08-17 23:30,670 Kula Gulf Wy,,
-21-01103,242: PC; Battery Civil: Civil Information Report,2021-08-18 11:58,Peoples Park Peoples Park,,
-21-01104,Caslty: Injury/Illness,2021-08-18 13:35,UCPD UCPD,,
-21-01105,459V-F: PC; Burglary Vehicle,2021-08-17 21:30,West End Wy,,
-21-01106,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-18 15:34,2301 Bancroft Wy,,
-21-01107,532 (A): PC; Obtain Money/Etc By False Pretenses [over $400] OA-THEFT: Outside Assist - Theft,2021-08-18 14:25,UCPD UCPD,,
-21-01108,Civil: Civil Information Report,2021-07-20 04:44,660 Kinkead Way,,
-21-01109,Caslty: Injury/Illness,2021-08-18 21:57,2650 Durant Av,,
-21-01110,OA-THEFT: Outside Assist - Theft,2021-08-18 23:15,PITTSBURG Rev 090418,,
-21-01111,FIRE: Fire,2021-08-19 11:34,2538 Channing Wy,,
-21-01112,"OUT WRTM: Other Agency Warrant, Misd 626: Exclusion Order Issued",2021-08-19 15:47,1110 Jackson St,,
-21-01113,Caslty: Injury/Illness,2021-08-19 18:10,Priestley Hall,,
-21-01114,10-42: Welfare Check,2021-08-19 17:25,UNKNOWN,,
-21-01115,Lost Prop.: Lost Property,2021-08-19 21:04,2400 Durant Av,,
-21-01116,290.011 (A): PC; Transient Fails to Register When Released From Custody,2021-08-19 22:10,Spieker Pz Spieker Plaza,,
-21-01117,OA-OTHER CRIME: Outside Assist - Other Crime 20002 (A): VC; Hit and Run:property Damage,2021-08-19 22:55,Piedmont Av,,
-21-01118,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-19 23:54,Spieker Pz Spieker Plaza Rev 090418,,
-21-01119,PRODAM: Property Damage,2021-08-20 00:26,Stadium Rim Wy,,
-21-01120,Lost Prop.: Lost Property,2021-03-23 16:00,Dwinelle Hall,,
-21-01121,242: PC; Battery 626: Exclusion Order Issued,2021-08-20 16:22,McLaughlin Hall,,
-21-01122,"243 (B): PC; Battery On Peace Officer/Emergency Personnel/Etc 5150: WI; 72 Hour Mental Health Hold OUT WRTF: Other Agency Warrant, Fel",2021-08-20 18:17,2100 MLK JR Wy,,
-21-01123,Caslty: Injury/Illness,2021-08-21 01:15,2650 Durant Av,,
-21-01124,Found Prop.: Found Property,2021-08-21 02:29,Memorial Glade Memorial Glade,,
-21-01125,422: PC; Threaten Crime W/Intent to Terrorize 242/243 (A): PC; Battery 236: PC; False Imprisonment,2021-08-21 05:01,Peoples Park Peoples Park,,
-21-01126,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-08-21 08:42,945 Ohlone Av,,
-21-01127,5150: WI; 72 Hour Mental Health Hold,2021-08-21 11:11,2601 Warring St,,
-21-01128,10-42: Welfare Check,2021-08-21 15:23,2401 Durant Av,,
-21-01129,626: Exclusion Order Issued 242: PC; Battery,2021-08-21 19:50,Lower Sproul Pz Lower Sproul Plaza,,
-21-01130,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-21 20:00,Sather Tower Sather Tower Rev 090418,,
-21-01131,Caslty: Injury/Illness,2021-08-22 00:40,2401 Durant Av,,
-21-01132,Caslty: Injury/Illness,2021-08-22 00:37,2650 Haste St,,
-21-01133,Caslty: Injury/Illness,2021-08-22 02:16,2650 Durant Av,,
-21-01134,Caslty: Injury/Illness,2021-08-22 11:02,2650 Haste St,,
-21-01135,Civil: Civil Information Report,2021-08-22 18:41,2610 Channing Wy,,
-21-01136,OA-ROBBERY: Outside Assist - Robbery 664: PC; Attempt Crime [state Specific Crime] Rape,2021-06-03 13:18,UCPD UCPD Bowles Hall,,
-21-01137,Caslty: Injury/Illness,2021-08-23 02:02,2650 Haste St,,
-21-01139,484 (A): PC; Theft,2021-08-20 16:40,2299 Piedmont Av,,
-21-01140,PRODAM: Property Damage,2021-08-23 11:20,Bancroft Wy,,
-21-01141,PRODAM: Property Damage,2021-08-23 11:43,Grizzly Peak Gate Grizzy Peak Gate,,
-21-01143,INFO: Information Only Report,2021-08-23 12:27,UCPD UCPD,,
-21-01144,261: PC; Rape:not Specified,2021-08-21 04:45,Stern Hall,,
-21-01145,Caslty: Injury/Illness,2021-08-23 16:37,2700 Bancroft Wy,,
-21-01146,OA-BURGLARY: Outside Assist - Burglary,2021-08-23 19:10,2222 Bancroft Wy,,
-21-01147,Caslty: Injury/Illness,2021-08-24 01:02,2650 Haste St,,
-21-01148,Lost Prop.: Lost Property,2021-07-13 04:30,2199 Addison St,,
-21-01149,242: PC; Battery,2021-08-24 11:59,2650 Haste St,,
-21-01150,Lost Prop.: Lost Property,2021-07-02 00:11,Unknown,,
-21-01151,484: PC; Petty Theft,2021-08-22 06:59,Max Martinez Max Martinez,,
-21-01152,"OUT WRTF: Other Agency Warrant, Fel 11364: HS; Possess Controlled Substance Paraphernalia 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] 25620: BP; Possess Open Container of Alcohol In Public",2021-08-24 16:12,Edwards Stadium Edwards Track Stadium,,
-21-01153,484 (A): PC; Petty Theft,2021-08-24 12:57,2220 Piedmont Av,,
-21-01154,Lost Prop.: Lost Property,2021-08-23 18:00,2650 Durant Av,,
+21-01044,487 (A): PC; Grand Theft:money/Labor/Property Over $950 OABPD: Outside Assist - BPD,2021-08-05 17:32,2333 College Av,-122.25423115947426,37.86809365
+21-01045,PRODAM: Property Damage,2021-08-06 05:35,Ucpd Ucpd,-122.272863,37.8708393
+21-01047,488: PC; Petty Theft,2021-08-06 09:37,Memorial Stadium Memorial Stadium,-122.25073605072417,37.8709949
+21-01048,PRODAM: Property Damage,2021-08-06 19:06,Lower Sproul Garage Lower Sproul Garage Rev 090418,-122.260471,37.869253
+21-01049,Found Prop.: Found Property,2021-08-07 02:37,675 Kula Gulf Wy,-122.3033197,37.883893
+21-01051,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-07 13:37,Haas Pavilion Haas Pavilion,-122.26220609544905,37.86939045
+21-01052,PRODAM: Property Damage,2021-08-06 18:00,1110 Jackson St,-122.272863,37.8708393
+21-01053,Caslty: Injury/Illness,2021-08-07 20:53,Ucpd Ucpd,-122.272863,37.8708393
+21-01054,664/487: PC; Attempt Grand Theft 10852: VC; Tamper With Vehicle 487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-07 23:16,625 West End Wy,-122.272863,37.8708393
+21-01055,INFO: Information Only Report,2021-08-08 15:09,810 Ohlone Av,-122.272863,37.8708393
+21-01056,OA-SEX ASSAULT: Outside Assist - Sexual Assault,2020-03-16 03:00,2727 Channing Wy,-122.25281857158501,37.86791335
+21-01057,HAZMAT: Hazardous Condition,2021-08-08 18:31,Latimer Hall,-122.255914566482,37.87310845
+21-01058,594: PC; Malicious Mischief/Vandalism 487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-08 16:02,South Hall,-122.25853742228921,37.87133485
+21-01059,INFO: Information Only Report,2021-08-09 04:46,Hearst Mining Building Hearst Mining Building,-122.25726679499158,37.874424950000005
+21-01060,647 (E): PC; Disorderly Conduct:lodge Without Owners Consent,2021-06-14 04:40,2536 Channing Wy,-122.25736188372093,37.86703753488372
+21-01061,484 G: PC; Theft By Use of Credit Card [over $400] (Amended),2021-08-09 09:00,1608 Fourth St,-122.30222713682431,37.873165799999995
+21-01062,664/10851: PC; Attempt to Operate Vehicle W/O Owner's Consent (Amended),2021-02-18 08:45,605 Ohlone Av,-122.272863,37.8708393
+21-01046,"594 (A): PC; Vandalism [$5, 000 Or Over] SUPP: Supplemental Reports 594: PC; Malicious Mischief/Vandalism",2021-08-06 04:00,Sproul Hall,-122.25877388866843,37.8696038
+21-01063,664/459: PC; Attempted Burglary: First Degree,2021-08-09 23:30,Ellsworth Parking Structure Ellsworth Parking Structure,-122.2624592316722,37.8659586
+21-01064,Lost Prop.: Lost Property,2019-12-01 12:00,Life Science Addition Life Science Addition,-122.272863,37.8708393
+21-01065,290 (A): PC; Duty to Register As Sex Offender,2021-08-10 13:23,Ucpd Ucpd,-122.272863,37.8708393
+21-01066,459.5 (A): PC; Burglary: Retail Merchandise Less Than $950,2021-08-10 14:43,Mlk Mlk Rev 090418,-122.272863,37.8708393
+21-01067,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-11 10:16,Hildebrand Hall,-122.25574850455493,37.872667
+21-01068,484 G: PC; Theft By Use of Access Card Information,2021-07-28 00:01,Doe Library Doe Library,-122.25949842187501,37.872192150000004
+21-01071,459V-F: PC; Burglary Vehicle,2021-08-11 11:06,Foothill Lot,-122.25298596214569,37.8741938
+21-01069,602 (M): PC; Trespass:drive On Private Property (Amended) 626: Exclusion Order Issued,2021-08-12 06:19,Anthropology  Art Practice Building Anthropology,-122.25521364874075,37.8698277
+21-01070,FIRE: Fire,2021-08-12 09:08,Uva Uva,-122.272863,37.8708393
+21-01072,Lost Prop.: Lost Property,2020-04-16 21:20,Giannini Hall,-122.26226332170472,37.873443699999996
+21-01073,594 (A): PC; Vandalism Scanned: Add Scanned Documents to Report,2021-08-11 23:15,Strawberry Center Strawberry Center,-122.244277,37.873034
+21-01074,487 (A): PC; Grand Theft:money/Labor/Property Over $950 Scanned: Add Scanned Documents to Report SUPP: Supplemental Reports,2021-08-12 08:45,Lower Hearst Structure Lower Hearst Structure,-122.26143521304314,37.87523535
+21-01075,INFO: Information Only Report 273.5 (A): PC; Inflict Corporal Injury On Spouse/Cohabitant,2021-08-09 12:00,600 block West End Wy,-122.272863,37.8708393
+21-01076,SUPP: Supplemental Reports 242: PC; Battery 243 (B): PC; Battery On Peace Officer/Fireman (Amended) 422.6 (A): PC; Violate Civil Rights By Force Or Threat of Force INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-08-12 16:35,Bancroft Wy,-122.28565157020569,37.86528873030079
+21-01079,484: PC; Theft,2021-08-12 01:00,515 West End Wy,-122.272863,37.8708393
+21-01077,Found Prop.: Found Property Scanned: Add Scanned Documents to Report,2021-08-13 00:06,Hildebrand Hall,-122.25574850455493,37.872667
+21-01078,374.3 (A): PC; Dump Waste On Public/Private Road/Property:commercial Amount (Bl,2021-08-04 07:15,2400 Durant Av,-122.260114,37.86724
+21-01080,Caslty: Injury/Illness,2021-08-13 20:25,2001 Gayley Rd,-122.25611709380318,37.87475781058154
+21-01081,RULES: Rules Violation,2021-08-14 00:06,2415 Dwight Wy,-122.26055853746672,37.8653537
+21-01082,484 (A): PC; Theft,2021-08-14 12:05,UCPD UCPD,-122.272863,37.8708393
+21-01083,594: PC; Malicious Mischief/Vandalism,2021-08-14 12:41,2175 Gayley Rd,-122.25611709380318,37.87475781058154
+21-01085,5150: WI; 72 Hour Mental Health Hold 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] 314.1: PC; Indecent Exposure W/Prior Scanned: Add Scanned Documents to Report,2021-08-15 01:50,Underhill Parking Structure Underhill Parking Structure,-122.272863,37.8708393
+21-01086,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-15 02:09,Eshleman Hall,-122.26038899477012,37.8687633
+21-01087,273.5 (A): PC; Inflict Corporal Injury On Spouse/Cohabitant,2021-08-09 12:00,600 block West End Wy,-122.272863,37.8708393
+21-01088,PRODAM: Property Damage,2021-08-15 15:21,1301 S 46th St,-122.272863,37.8708393
+21-01089,5150: WI; 72 Hour Mental Health Hold Scanned: Add Scanned Documents to Report,2021-08-15 15:47,UCPD UCPD,-122.272863,37.8708393
+21-01090,Caslty: Injury/Illness,2021-08-15 20:35,Peoples Park Peoples Park Rev 090418,-122.272863,37.8708393
+21-01091,594 (A)(2): PC; Vandalism: Damage Property,2021-08-15 23:02,1125 Jackson St,-122.272863,37.8708393
+21-01094,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-15 21:00,555 Ohlone Av,-122.272863,37.8708393
+21-01095,Lost Prop.: Lost Property,2021-08-11 12:00,Stanley Hall,-122.25608574376449,37.87396185
+21-01096,10852: VC; Tamper With Vehicle SUPP: Supplemental Reports,2021-08-15 17:00,Epworth Lot,-122.272863,37.8708393
+21-01097,602 (M): PC; Trespass:drive On Private Property (Amended) Scanned: Add Scanned Documents to Report,2021-08-17 11:09,Lbnl Lbnl,-122.2486,37.877132
+21-01098,459V-F: PC; Burglary Vehicle,2021-08-17 15:52,Ellsworth Parking Structure Structure C,-122.257208,37.875746
+21-01099,"OUT WRTF: Other Agency Warrant, Fel",2021-08-17 17:36,Eighth St,-122.29370635761467,37.8627417853943
+21-01100,459V-F: PC; Burglary Vehicle,2021-08-17 18:15,Ellsworth Parking Structure Ellsworth Parking Structure,-122.2624592316722,37.8659586
+21-01101,10853: VC; Malicious Mischief to Vehicle,2021-08-17 23:30,670 Kula Gulf Wy,-122.303732,37.8838124
+21-01103,242: PC; Battery Civil: Civil Information Report,2021-08-18 11:58,Peoples Park Peoples Park,-122.257299,37.865746
+21-01104,Caslty: Injury/Illness,2021-08-18 13:35,UCPD UCPD,-122.272863,37.8708393
+21-01105,459V-F: PC; Burglary Vehicle,2021-08-17 21:30,West End Wy,-122.272863,37.8708393
+21-01106,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-18 15:34,2301 Bancroft Wy,-122.260816,37.868605
+21-01107,532 (A): PC; Obtain Money/Etc By False Pretenses [over $400] OA-THEFT: Outside Assist - Theft,2021-08-18 14:25,UCPD UCPD,-122.272863,37.8708393
+21-01108,Civil: Civil Information Report,2021-07-20 04:44,660 Kinkead Way,-122.272863,37.8708393
+21-01109,Caslty: Injury/Illness,2021-08-18 21:57,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-01110,OA-THEFT: Outside Assist - Theft,2021-08-18 23:15,PITTSBURG Rev 090418,-122.272863,37.8708393
+21-01111,FIRE: Fire,2021-08-19 11:34,2538 Channing Wy,-122.25735679069767,37.8670381627907
+21-01112,"OUT WRTM: Other Agency Warrant, Misd 626: Exclusion Order Issued",2021-08-19 15:47,1110 Jackson St,-122.272863,37.8708393
+21-01113,Caslty: Injury/Illness,2021-08-19 18:10,Priestley Hall,-122.25987786364043,37.8669477
+21-01114,10-42: Welfare Check,2021-08-19 17:25,UNKNOWN,-122.272863,37.8708393
+21-01115,Lost Prop.: Lost Property,2021-08-19 21:04,2400 Durant Av,-122.260114,37.86724
+21-01116,290.011 (A): PC; Transient Fails to Register When Released From Custody,2021-08-19 22:10,Spieker Pz Spieker Plaza,-122.261621,37.869196
+21-01117,OA-OTHER CRIME: Outside Assist - Other Crime 20002 (A): VC; Hit and Run:property Damage,2021-08-19 22:55,Piedmont Av,-122.25255791992419,37.87070609791057
+21-01118,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-19 23:54,Spieker Pz Spieker Plaza Rev 090418,-122.261621,37.869196
+21-01119,PRODAM: Property Damage,2021-08-20 00:26,Stadium Rim Wy,-122.25193544354337,37.87253304326599
+21-01120,Lost Prop.: Lost Property,2021-03-23 16:00,Dwinelle Hall,-122.2607432628604,37.8707285
+21-01121,242: PC; Battery 626: Exclusion Order Issued,2021-08-20 16:22,McLaughlin Hall,-122.25905005086963,37.8738328
+21-01122,"243 (B): PC; Battery On Peace Officer/Emergency Personnel/Etc 5150: WI; 72 Hour Mental Health Hold OUT WRTF: Other Agency Warrant, Fel",2021-08-20 18:17,2100 MLK JR Wy,-122.273237,37.870077
+21-01123,Caslty: Injury/Illness,2021-08-21 01:15,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-01124,Found Prop.: Found Property,2021-08-21 02:29,Memorial Glade Memorial Glade,-122.259436,37.873221
+21-01125,422: PC; Threaten Crime W/Intent to Terrorize 242/243 (A): PC; Battery 236: PC; False Imprisonment,2021-08-21 05:01,Peoples Park Peoples Park,-122.257299,37.865746
+21-01126,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-08-21 08:42,945 Ohlone Av,-122.272863,37.8708393
+21-01127,5150: WI; 72 Hour Mental Health Hold,2021-08-21 11:11,2601 Warring St,-122.250147,37.864041
+21-01128,10-42: Welfare Check,2021-08-21 15:23,2401 Durant Av,-122.26110790700152,37.868028499999994
+21-01129,626: Exclusion Order Issued 242: PC; Battery,2021-08-21 19:50,Lower Sproul Pz Lower Sproul Plaza,-122.26022867883118,37.86920445
+21-01130,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-21 20:00,Sather Tower Sather Tower Rev 090418,-122.2578158,37.8720577
+21-01131,Caslty: Injury/Illness,2021-08-22 00:40,2401 Durant Av,-122.26110790700152,37.868028499999994
+21-01132,Caslty: Injury/Illness,2021-08-22 00:37,2650 Haste St,-122.25600252497779,37.866474196443825
+21-01133,Caslty: Injury/Illness,2021-08-22 02:16,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-01134,Caslty: Injury/Illness,2021-08-22 11:02,2650 Haste St,-122.25600252497779,37.866474196443825
+21-01135,Civil: Civil Information Report,2021-08-22 18:41,2610 Channing Wy,-122.2563729387755,37.867161959183676
+21-01136,OA-ROBBERY: Outside Assist - Robbery 664: PC; Attempt Crime [state Specific Crime] Rape,2021-06-03 13:18,UCPD UCPD Bowles Hall,-122.272863,37.8708393
+21-01137,Caslty: Injury/Illness,2021-08-23 02:02,2650 Haste St,-122.25600252497779,37.866474196443825
+21-01139,484 (A): PC; Theft,2021-08-20 16:40,2299 Piedmont Av,-122.2519432,37.8697156
+21-01140,PRODAM: Property Damage,2021-08-23 11:20,Bancroft Wy,-122.28565157020569,37.86528873030079
+21-01141,PRODAM: Property Damage,2021-08-23 11:43,Grizzly Peak Gate Grizzy Peak Gate,-122.272863,37.8708393
+21-01143,INFO: Information Only Report,2021-08-23 12:27,UCPD UCPD,-122.272863,37.8708393
+21-01144,261: PC; Rape:not Specified,2021-08-21 04:45,Stern Hall,-122.25475671525562,37.87480935
+21-01145,Caslty: Injury/Illness,2021-08-23 16:37,2700 Bancroft Wy,-122.25707242207793,37.86907978571429
+21-01146,OA-BURGLARY: Outside Assist - Burglary,2021-08-23 19:10,2222 Bancroft Wy,-122.26741212033184,37.86774458786539
+21-01147,Caslty: Injury/Illness,2021-08-24 01:02,2650 Haste St,-122.25600252497779,37.866474196443825
+21-01148,Lost Prop.: Lost Property,2021-07-13 04:30,2199 Addison St,-122.2665321343369,37.87196635
+21-01149,242: PC; Battery,2021-08-24 11:59,2650 Haste St,-122.25600252497779,37.866474196443825
+21-01150,Lost Prop.: Lost Property,2021-07-02 00:11,Unknown,-122.272863,37.8708393
+21-01151,484: PC; Petty Theft,2021-08-22 06:59,Max Martinez Max Martinez,-122.272863,37.8708393
+21-01152,"OUT WRTF: Other Agency Warrant, Fel 11364: HS; Possess Controlled Substance Paraphernalia 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] 25620: BP; Possess Open Container of Alcohol In Public",2021-08-24 16:12,Edwards Stadium Edwards Track Stadium,-122.26485600936529,37.8690737
+21-01153,484 (A): PC; Petty Theft,2021-08-24 12:57,2220 Piedmont Av,-122.25286288751197,37.87097791199431
+21-01154,Lost Prop.: Lost Property,2021-08-23 18:00,2650 Durant Av,-122.25523019684019,37.867819999999995
 21-01155,484: PC; Petty Theft,2021-08-24 08:15,Unit 2 Towle,,
-21-01156,261: PC; Rape:not Specified,2021-08-24 17:41,Tacoma Washington Rev 090418,,
-21-01157,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-25 00:14,Lower Sproul Garage ASUC Garage,,
-21-01158,Caslty: Injury/Illness,2021-08-25 02:16,2401 Durant Av,,
-21-01159,OA-BURGLARY: Outside Assist - Burglary,2021-08-25 03:50,Bancroft E BARROWS,,
-21-01161,DEMO: Demonstration,2021-08-25 10:40,Sather Gate Sather Gate,,
-21-01162,DEMO: Demonstration 594 (A): PC; Vandalism,2021-08-25 07:56,Sproul Hall,,
-21-01163,242: PC; Battery,2021-08-25 09:30,Sather Gate Sather Gate,,
-21-01164,242: PC; Battery,2021-08-25 10:30,Sather Gate Sather Gate,,
-21-01165,242: PC; Battery,2021-08-25 10:58,Sather Gate Sather Gate,,
-21-01166,Civil: Civil Information Report,2021-08-25 11:16,Evans Hall,,
-21-01167,BITE: Animal Bite Report 242: PC; Battery,2021-08-25 11:18,Sather Gate Sather Gate,,
-21-01168,DEMO: Demonstration,2021-08-25 11:58,University House University House,,
-21-01169,290 (A): PC; Duty to Register As Sex Offender,2021-08-25 14:27,Sproul Hall,,
-21-01171,484: PC; Theft,2021-08-24 22:07,Unit2 Courtyard,,
-21-01172,"OUT WRTM: Other Agency Warrant, Misd UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd",2021-08-25 15:57,1824 Euclid Av,,
-21-01173,459V-F: PC; Burglary Vehicle 530.5: PC; Unauth Use of Personal Identification:obtain Credit (Blocked),2021-08-25 18:42,Ckc Volley Ball Courts,,
-21-01174,594 (A): PC; Vandalism,2021-08-25 22:37,Lower Sproul Garage ASUC Garage,,
-21-01175,602: PC; Tresspassing 594: PC; Malicious Mischief/Vandalism OA-OTHER CRIME: Outside Assist - Other Crime Stalking added,2021-08-25 21:35,Lawrence Berkeley National Laboratory LBNL Unit 2 Cunningham Rev 090418,,
-21-01176,Caslty: Injury/Illness INFO: Information Only Report,2021-08-26 05:45,Hesse Hall,,
-21-01177,Caslty: Injury/Illness,2021-08-26 07:52,Foothill Complex 7A20A Foothill Complex,,
-21-01178,RULES: Rules Violation,2021-08-26 08:42,Haas Pavilion Haas Pavilion,,
-21-01179,Caslty: Injury/Illness,2021-08-26 09:58,Haviland Hall,,
-21-01180,484: PC; Petty Theft,2021-08-26 11:09,2121 Berkeley Wy,,
-21-01181,INFO: Information Only Report,2021-08-26 10:09,Dwinelle Hall,,
-21-01182,Lost Prop.: Lost Property Civil: Civil Information Report *Stalking,2021-08-25 00:20,Evans Hall,,
-21-01184,664/459: PC; Attempted Burglary: Second Degree,2021-08-12 11:00,Sutardja Dai Hall,,
-21-01185,"242: PC; Battery 647 (F): PC; Disorderly Conduct:intox Drug With Alcohol 5150: WI; 72 Hour Mental Health Hold 243 (B): PC; Battery On Peace Officer/Emergency Personnel/Etc 148 (A)(1): PC; Resist/Obstruct Police Officer, Etc 243 (B): PC; Battery On Peace Officer/Fireman (Amended)",2021-08-26 21:21,2300 Block Of Telegraph Ave,,
-21-01186,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-26 10:15,Ellsworth Parking Structure Structure C Rev 090418,,
-21-01187,OA-BURGLARY: Outside Assist - Burglary,2021-08-27 03:19,UCPD UCPD,,
-21-01188,287 (C)(2)(A): PC; Oral Copulation By Force/Fear,2019-05-01 17:00,Campus Campus,,
-21-01189,459: PC; Burglary: First Degree,2021-08-27 01:04,Giannini Hall,,
-21-01190,242: PC; Battery,2021-08-27 11:10,Peoples Park Peoples Park,,
-21-01191,484: PC; Theft,2021-08-27 16:14,Upper Sproul Pz Upper Sproul Plaza,,
-21-01192,484: PC; Petty Theft,2021-08-27 17:10,Memorial Stadium Memorial Stadium,,
-21-01193,242: PC; Battery 148.4 (1): PC; False Tamper With Fire Alarm (Amended),2021-08-27 19:08,Peoples Park Peoples Park Crossroads Dining,,
-21-01194,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-08-27 06:30,425 Liberty Ship Wy,,
-21-01195,594 (A)(2): PC; Vandalism: Damage Property Aggravated Assault added,2021-08-27 22:41,West End Wy,,
-21-01196,Caslty: Injury/Illness,2021-08-28 00:51,2650 Haste St,,
-21-01197,647 (F): PC; Disorderly Conduct:intox Drug With Alcohol,2021-08-28 02:38,Anthony Hall,,
-21-01198,459V-F: PC; Burglary Vehicle,2021-08-27 20:27,Bancroft Parking Structure Structure B,,
-21-01199,Caslty: Injury/Illness Domestic Battery added,2021-08-28 18:46,2400 Durant Av,,
-19-00857,UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd,2021-08-29 21:40,Channing Wy,,
-21-01200,Caslty: Injury/Illness,2021-08-29 03:55,UCPD UCPD,,
-21-01201,Found Prop.: Found Property,2021-08-29 07:51,Dana St,,
-21-01202,459: PC; Burglary: First Degree,2021-08-29 09:40,Giannini Hall,,
-21-01203,626: Exclusion Order Issued,2021-08-29 11:24,Peoples Park Peoples Park,,
-21-01204,PRODAM: Property Damage,2021-08-28 17:23,Zellerbach Hall,,
-21-01205,261 (A)(3): PC; Rape of Drugged Victim SUPP: Supplemental Reports 120290: HS; Willful Exposure Contagious/Infectious/Communicable Disease Vandalism added,2021-08-25 00:02,2650 Haste St,,
-21-01206,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-08-28 22:45,Uva Grounds Shop Uva Grounds Shop,,
-21-01207,664/459: PC; Attempted Burglary: Second Degree,2021-08-27 02:30,Valley Life Science Building Valley Life Science Building,,
-21-01208,484: PC; Theft,2021-08-30 09:36,Memorial Stadium Memorial Stadium,,
-21-01209,Lost Prop.: Lost Property,2021-04-07 00:00,2121 Berkeley Wy,,
-21-01210,484 (A): PC; Theft,2021-08-25 22:45,2520 Channing Wy,,
-21-01211,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-27 02:00,2650 Durant Av,,
-21-01212,Caslty: Injury/Illness,2021-08-30 19:08,2415 Bowditch St,,
-21-01213,OA-VEH BURGLARY: Outside Assist - Vehicle Burglary 459V-F: PC; Burglary Vehicle,2021-08-30 22:15,Bancroft Wy,,
-21-01214,626: Exclusion Order Issued,2021-08-31 14:49,Valley Life Science Building Valley Life Science Building,,
-21-01215,OA-BATTERY: Outside Assist - Battery,2021-08-31 16:30,2455 Bowditch St,,
-21-01216,OA-SEX ASSAULT: Outside Assist - Sexual Assault,2021-08-31 17:40,2222 Bancroft Wy,,
-21-01218,484 (A): PC; Theft,2021-08-31 12:00,Southwest Corner Of VLSB,,
-21-01219,484: PC; Theft,2021-08-31 16:50,7 Frank Schlessinger Wy,,
-21-02072,148.4: PC; False Fire Alarm,2021-12-01 02:09,2200 Bancroft Wy,,
-21-02073,INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-12-01 02:00,2539 Telegraph Av,,
-21-02074,Caslty: Injury/Illness,2021-12-01 09:03,2401 Durant Av,,
-21-02075,594: PC; Malicious Mischief/Vandalism,2021-11-29 21:00,3800 San Pablo Av,,
-21-02076,Caslty: Injury/Illness,2021-12-01 09:39,2650 Durant Av,,
-21-02077,Lost Prop.: Lost Property,2021-09-16 00:00,Evans Hall,,
-21-02078,664/487: PC; Attempt Grand Theft,2021-11-28 01:07,UVA Lot,,
-21-02079,484 (A): PC; Petty Theft,2021-12-01 09:50,Haz Mat Facility Haz Mat Facility,,
-21-02080,314: PC; Indecent Exposure 626: Exclusion Order Issued,2021-12-01 11:46,Eucalyptus Grove Eucalyptus Grove,,
-21-02081,484 (A): PC; Theft,2021-12-01 12:23,2301 Bancroft Wy,,
-21-02083,484 (A): PC; Theft,2021-11-30 18:30,Evans Diamond Evans Diamond,,
-21-02084,664 /211: PC; Attempted Robbery,2021-12-01 16:33,2337 Haste St,,
-21-02085,Caslty: Injury/Illness,2021-12-01 18:17,2401 Durant Av,,
-21-02086,459: PC; Burglary: First Degree,2021-12-01 17:48,2701 Hearst Av,,
-21-02087,487 (A): PC; Grand Theft:money/Labor/Property Over $950 Scanned: Add Scanned Documents to Report,2021-11-22 13:30,2400 Durant Av,,
-21-02088,"647 (H): PC; Disorderly Conduct:loiter,prowl private prop w/o lawful business",2021-12-01 19:14,2650 Durant Av,,
-21-02089,484 (A): PC; Theft,2021-12-01 17:10,Evans Hall,,
-21-02090,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-01 18:52,Valley Life Science Building Valley Life Science Building,,
-21-02091,"OUT WRTF: Other Agency Warrant, Fel 166 (A)(4): PC; Contempt of Court:disobey Court Order/Etc Scanned: Add Scanned Documents to Report 484 (A) PC; Theft",2021-12-01 21:14,2650 Haste St,,
-21-02092,WELFARE: Welfare Check,2021-12-02 02:00,Latimer Hall,,
-21-02093,415(1): PC; Fight/Challenge Fight Public Pl,2021-12-02 09:30,2400 Durant Av,,
-21-02094,484 (A): PC; Petty Theft,2021-12-02 07:43,2521 Hearst Av,,
-21-02095,626.10 (A): PC; Possess Knife/Etc At School (Amended) 11377 (A): HS; Possess Controlled Substance 11364: HS; Possess Controlled Substance Paraphernalia 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] 459.5 (A): PC; Burglary: Retail Merchandise Less Than $950 Scanned: Add Scanned Documents to Report,2021-12-02 14:39,2315 Telegraph Av,,
-21-02096,10852: VC; Tamper With Vehicle,2021-11-27 13:45,2424 Channing Wy,,
-21-02097,Caslty: Injury/Illness,2021-12-02 23:09,Sproul Hall,,
+21-01156,261: PC; Rape:not Specified,2021-08-24 17:41,Tacoma Washington Rev 090418,-122.272863,37.8708393
+21-01157,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-25 00:14,Lower Sproul Garage ASUC Garage,-122.2606309,37.8688322
+21-01158,Caslty: Injury/Illness,2021-08-25 02:16,2401 Durant Av,-122.26110790700152,37.868028499999994
+21-01159,OA-BURGLARY: Outside Assist - Burglary,2021-08-25 03:50,Bancroft E BARROWS,-122.272863,37.8708393
+21-01161,DEMO: Demonstration,2021-08-25 10:40,Sather Gate Sather Gate,-122.259509,37.8702403
+21-01162,DEMO: Demonstration 594 (A): PC; Vandalism,2021-08-25 07:56,Sproul Hall,-122.25877388866843,37.8696038
+21-01163,242: PC; Battery,2021-08-25 09:30,Sather Gate Sather Gate,-122.259509,37.8702403
+21-01164,242: PC; Battery,2021-08-25 10:30,Sather Gate Sather Gate,-122.259509,37.8702403
+21-01165,242: PC; Battery,2021-08-25 10:58,Sather Gate Sather Gate,-122.259509,37.8702403
+21-01166,Civil: Civil Information Report,2021-08-25 11:16,Evans Hall,-122.25768131042068,37.873621099999994
+21-01167,BITE: Animal Bite Report 242: PC; Battery,2021-08-25 11:18,Sather Gate Sather Gate,-122.259509,37.8702403
+21-01168,DEMO: Demonstration,2021-08-25 11:58,University House University House,-122.26224735001742,37.87445975
+21-01169,290 (A): PC; Duty to Register As Sex Offender,2021-08-25 14:27,Sproul Hall,-122.25877388866843,37.8696038
+21-01171,484: PC; Theft,2021-08-24 22:07,Unit2 Courtyard,-122.2539312,37.870845
+21-01172,"OUT WRTM: Other Agency Warrant, Misd UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd",2021-08-25 15:57,1824 Euclid Av,-122.2604121,37.875698
+21-01173,459V-F: PC; Burglary Vehicle 530.5: PC; Unauth Use of Personal Identification:obtain Credit (Blocked),2021-08-25 18:42,Ckc Volley Ball Courts,-122.272863,37.8708393
+21-01174,594 (A): PC; Vandalism,2021-08-25 22:37,Lower Sproul Garage ASUC Garage,-122.2606309,37.8688322
+21-01175,602: PC; Tresspassing 594: PC; Malicious Mischief/Vandalism OA-OTHER CRIME: Outside Assist - Other Crime Stalking added,2021-08-25 21:35,Lawrence Berkeley National Laboratory LBNL Unit 2 Cunningham Rev 090418,-122.244765,37.87662
+21-01176,Caslty: Injury/Illness INFO: Information Only Report,2021-08-26 05:45,Hesse Hall,-122.25937622890035,37.87431235
+21-01177,Caslty: Injury/Illness,2021-08-26 07:52,Foothill Complex 7A20A Foothill Complex,-122.272863,37.8708393
+21-01178,RULES: Rules Violation,2021-08-26 08:42,Haas Pavilion Haas Pavilion,-122.26220609544905,37.86939045
+21-01179,Caslty: Injury/Illness,2021-08-26 09:58,Haviland Hall,-122.2611045603687,37.8737907
+21-01180,484: PC; Petty Theft,2021-08-26 11:09,2121 Berkeley Wy,-122.2683576,37.8737831
+21-01181,INFO: Information Only Report,2021-08-26 10:09,Dwinelle Hall,-122.2607432628604,37.8707285
+21-01182,Lost Prop.: Lost Property Civil: Civil Information Report *Stalking,2021-08-25 00:20,Evans Hall,-122.25768131042068,37.873621099999994
+21-01184,664/459: PC; Attempted Burglary: Second Degree,2021-08-12 11:00,Sutardja Dai Hall,-122.2583368484039,37.8748734
+21-01185,"242: PC; Battery 647 (F): PC; Disorderly Conduct:intox Drug With Alcohol 5150: WI; 72 Hour Mental Health Hold 243 (B): PC; Battery On Peace Officer/Emergency Personnel/Etc 148 (A)(1): PC; Resist/Obstruct Police Officer, Etc 243 (B): PC; Battery On Peace Officer/Fireman (Amended)",2021-08-26 21:21,2300 Block Of Telegraph Ave,-122.272863,37.8708393
+21-01186,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-08-26 10:15,Ellsworth Parking Structure Structure C Rev 090418,-122.272863,37.8708393
+21-01187,OA-BURGLARY: Outside Assist - Burglary,2021-08-27 03:19,UCPD UCPD,-122.272863,37.8708393
+21-01188,287 (C)(2)(A): PC; Oral Copulation By Force/Fear,2019-05-01 17:00,Campus Campus,-122.272863,37.8708393
+21-01189,459: PC; Burglary: First Degree,2021-08-27 01:04,Giannini Hall,-122.26226332170472,37.873443699999996
+21-01190,242: PC; Battery,2021-08-27 11:10,Peoples Park Peoples Park,-122.257299,37.865746
+21-01191,484: PC; Theft,2021-08-27 16:14,Upper Sproul Pz Upper Sproul Plaza,-122.259346,37.869473
+21-01192,484: PC; Petty Theft,2021-08-27 17:10,Memorial Stadium Memorial Stadium,-122.25073605072417,37.8709949
+21-01193,242: PC; Battery 148.4 (1): PC; False Tamper With Fire Alarm (Amended),2021-08-27 19:08,Peoples Park Peoples Park Crossroads Dining,-122.272863,37.8708393
+21-01194,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-08-27 06:30,425 Liberty Ship Wy,-122.272863,37.8708393
+21-01195,594 (A)(2): PC; Vandalism: Damage Property Aggravated Assault added,2021-08-27 22:41,West End Wy,-122.272863,37.8708393
+21-01196,Caslty: Injury/Illness,2021-08-28 00:51,2650 Haste St,-122.25600252497779,37.866474196443825
+21-01197,647 (F): PC; Disorderly Conduct:intox Drug With Alcohol,2021-08-28 02:38,Anthony Hall,-122.25820488904932,37.8706978
+21-01198,459V-F: PC; Burglary Vehicle,2021-08-27 20:27,Bancroft Parking Structure Structure B,-122.257208,37.875746
+21-01199,Caslty: Injury/Illness Domestic Battery added,2021-08-28 18:46,2400 Durant Av,-122.260114,37.86724
+19-00857,UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd,2021-08-29 21:40,Channing Wy,-122.29569816420656,37.86174439180047
+21-01200,Caslty: Injury/Illness,2021-08-29 03:55,UCPD UCPD,-122.272863,37.8708393
+21-01201,Found Prop.: Found Property,2021-08-29 07:51,Dana St,-122.25837473707342,37.8532981263744
+21-01202,459: PC; Burglary: First Degree,2021-08-29 09:40,Giannini Hall,-122.26226332170472,37.873443699999996
+21-01203,626: Exclusion Order Issued,2021-08-29 11:24,Peoples Park Peoples Park,-122.257299,37.865746
+21-01204,PRODAM: Property Damage,2021-08-28 17:23,Zellerbach Hall,-122.26078800973943,37.8690496
+21-01205,261 (A)(3): PC; Rape of Drugged Victim SUPP: Supplemental Reports 120290: HS; Willful Exposure Contagious/Infectious/Communicable Disease Vandalism added,2021-08-25 00:02,2650 Haste St,-122.25600252497779,37.866474196443825
+21-01206,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-08-28 22:45,Uva Grounds Shop Uva Grounds Shop,-122.272863,37.8708393
+21-01207,664/459: PC; Attempted Burglary: Second Degree,2021-08-27 02:30,Valley Life Science Building Valley Life Science Building,-122.272863,37.8708393
+21-01208,484: PC; Theft,2021-08-30 09:36,Memorial Stadium Memorial Stadium,-122.25073605072417,37.8709949
+21-01209,Lost Prop.: Lost Property,2021-04-07 00:00,2121 Berkeley Wy,-122.2683576,37.8737831
+21-01210,484 (A): PC; Theft,2021-08-25 22:45,2520 Channing Wy,-122.25740262790698,37.867032511627905
+21-01211,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-08-27 02:00,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-01212,Caslty: Injury/Illness,2021-08-30 19:08,2415 Bowditch St,-122.25621929426624,37.866137951654
+21-01213,OA-VEH BURGLARY: Outside Assist - Vehicle Burglary 459V-F: PC; Burglary Vehicle,2021-08-30 22:15,Bancroft Wy,-122.28565157020569,37.86528873030079
+21-01214,626: Exclusion Order Issued,2021-08-31 14:49,Valley Life Science Building Valley Life Science Building,-122.272863,37.8708393
+21-01215,OA-BATTERY: Outside Assist - Battery,2021-08-31 16:30,2455 Bowditch St,-122.25609795200354,37.866122399999995
+21-01216,OA-SEX ASSAULT: Outside Assist - Sexual Assault,2021-08-31 17:40,2222 Bancroft Wy,-122.26741212033184,37.86774458786539
+21-01218,484 (A): PC; Theft,2021-08-31 12:00,Southwest Corner Of VLSB,-122.248829,37.863087
+21-01219,484: PC; Theft,2021-08-31 16:50,7 Frank Schlessinger Wy,-122.26274628522462,37.870190969260456
+21-02072,148.4: PC; False Fire Alarm,2021-12-01 02:09,2200 Bancroft Wy,-122.26563645726156,37.8673933
+21-02073,INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-12-01 02:00,2539 Telegraph Av,-122.25843025806452,37.86458938709678
+21-02074,Caslty: Injury/Illness,2021-12-01 09:03,2401 Durant Av,-122.26110790700152,37.868028499999994
+21-02075,594: PC; Malicious Mischief/Vandalism,2021-11-29 21:00,3800 San Pablo Av,-122.29347345,37.873
+21-02076,Caslty: Injury/Illness,2021-12-01 09:39,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02077,Lost Prop.: Lost Property,2021-09-16 00:00,Evans Hall,-122.25768131042068,37.873621099999994
+21-02078,664/487: PC; Attempt Grand Theft,2021-11-28 01:07,UVA Lot,-122.272863,37.8708393
+21-02079,484 (A): PC; Petty Theft,2021-12-01 09:50,Haz Mat Facility Haz Mat Facility,-122.272863,37.8708393
+21-02080,314: PC; Indecent Exposure 626: Exclusion Order Issued,2021-12-01 11:46,Eucalyptus Grove Eucalyptus Grove,-122.26386,37.87131
+21-02081,484 (A): PC; Theft,2021-12-01 12:23,2301 Bancroft Wy,-122.260816,37.868605
+21-02083,484 (A): PC; Theft,2021-11-30 18:30,Evans Diamond Evans Diamond,-122.263412870521,37.8694842
+21-02084,664 /211: PC; Attempted Robbery,2021-12-01 16:33,2337 Haste St,-122.262346,37.865949
+21-02085,Caslty: Injury/Illness,2021-12-01 18:17,2401 Durant Av,-122.26110790700152,37.868028499999994
+21-02086,459: PC; Burglary: First Degree,2021-12-01 17:48,2701 Hearst Av,-122.256722,37.875615
+21-02087,487 (A): PC; Grand Theft:money/Labor/Property Over $950 Scanned: Add Scanned Documents to Report,2021-11-22 13:30,2400 Durant Av,-122.260114,37.86724
+21-02088,"647 (H): PC; Disorderly Conduct:loiter,prowl private prop w/o lawful business",2021-12-01 19:14,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02089,484 (A): PC; Theft,2021-12-01 17:10,Evans Hall,-122.25768131042068,37.873621099999994
+21-02090,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-01 18:52,Valley Life Science Building Valley Life Science Building,-122.272863,37.8708393
+21-02091,"OUT WRTF: Other Agency Warrant, Fel 166 (A)(4): PC; Contempt of Court:disobey Court Order/Etc Scanned: Add Scanned Documents to Report 484 (A) PC; Theft",2021-12-01 21:14,2650 Haste St,-122.25600252497779,37.866474196443825
+21-02092,WELFARE: Welfare Check,2021-12-02 02:00,Latimer Hall,-122.255914566482,37.87310845
+21-02093,415(1): PC; Fight/Challenge Fight Public Pl,2021-12-02 09:30,2400 Durant Av,-122.260114,37.86724
+21-02094,484 (A): PC; Petty Theft,2021-12-02 07:43,2521 Hearst Av,-122.2591244,37.8755331
+21-02095,626.10 (A): PC; Possess Knife/Etc At School (Amended) 11377 (A): HS; Possess Controlled Substance 11364: HS; Possess Controlled Substance Paraphernalia 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] 459.5 (A): PC; Burglary: Retail Merchandise Less Than $950 Scanned: Add Scanned Documents to Report,2021-12-02 14:39,2315 Telegraph Av,-122.25901763915097,37.86842435018234
+21-02096,10852: VC; Tamper With Vehicle,2021-11-27 13:45,2424 Channing Wy,-122.25951811764706,37.86675558823529
+21-02097,Caslty: Injury/Illness,2021-12-02 23:09,Sproul Hall,-122.25877388866843,37.8696038
 21-02098,"SUPP: Supplemental Reports 602: PC; Tresspassing 602 (M): PC; Trespass:drive On Private Property (Amended) 148 (A)(1): PC; Resist/Obstruct Police Officer, Etc 243 (C)(2): PC; Battery W/Injury Against Police Officer 69 (A): PC; Obstruct/Resist Executive Officer 1203.2: PC; Probation Violation:rearrest/Revoke [state Specific Crime] OUT WRTM: Other Agency Warrant, Misd Scanned: Add Scanned Documents to Report",2021-12-02 21:56,,,
 21-02099,Caslty: Injury/Illness Scanned: Add Scanned Documents to Report by CSA Date Reported Date Occurred 11/30/2021 10/1/2021 11/30/2021 11/1/2021 manually added,2021-12-02 23:34,,,
-21-02100,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report 12022.1 (B): PC; Person On Bail: Secondary Offense Enhancement,2021-12-03 04:52,2601 Warring St,,
-21-02101,602 (M): PC; Trespass:drive On Private Property (Amended),2021-12-03 04:05,Law Building Law Building,,
-21-02102,626: Exclusion Order Issued 314: PC; Indecent Exposure Scanned: Add Scanned Documents to Report,2021-12-03 15:07,Strawberry Creek Strawberry Creek,,
-21-02103,459V: PC; Burglary Vehicle Scanned: Add Scanned Documents to Report,2021-12-03 14:08,2701 Hearst Av,,
-21-02104,Caslty: Injury/Illness,2021-12-04 08:15,Weill Hall,,
-21-02105,242: PC; Battery Scanned: Add Scanned Documents to Report,2021-12-04 10:30,2495 Bancroft Way,,
-21-02106,10852: VC; Tamper With Vehicle,2021-12-03 13:15,2701 Hearst Av,,
-21-02107,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-04 10:29,Moffitt Library Moffitt Library,,
-21-02108,Found Prop.: Found Property,2021-12-04 13:07,Upper Sproul Pz Upper Sproul Plaza,,
-21-02109,Caslty: Injury/Illness,2021-12-04 16:46,Bauer Wurster Hall,,
-21-02110,484 (A): PC; Petty Theft,2021-12-04 17:24,Memorial Stadium Memorial Stadium,,
-21-02111,Caslty: Injury/Illness Scanned: Add Scanned Documents to Report,2021-12-02 13:00,Davis Hall,,
-21-02112,148.4: PC; False Fire Alarm,2021-12-04 21:59,GPB Garage GPB Garage,,
-21-02113,Caslty: Injury/Illness,2021-12-04 22:21,Memorial Stadium Memorial Stadium,,
-21-02114,Lost Prop.: Lost Property,2021-12-04 21:30,Piedmont Av,,
-21-02115,Caslty: Injury/Illness,2021-12-05 02:17,2650 Durant Av,,
-21-02116,Caslty: Injury/Illness,2021-12-05 02:31,2650 Durant Av,,
-21-02117,594: PC; Malicious Mischief/Vandalism,2021-12-04 17:36,Lower Sproul Garage ASUC Garage Rev 090418,,
-21-02118,Caslty: Injury/Illness,2021-12-05 23:59,2650 Durant Av,,
-21-02119,OA-AUTO THEFT: Outside Assist - Auto Theft Scanned: Add Scanned Documents to Report,2021-12-06 07:37,2000 Carleton St,,
-21-02120,Caslty: Injury/Illness,2021-12-06 10:27,945 Ohlone Av,,
-21-02121,INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-12-06 10:47,On Campus,,
-21-02123,148.4 (1): PC; False Tamper With Fire Alarm (Amended),2021-12-06 12:18,2645 Haste St,,
-21-02124,484 (A): PC; Theft,2021-12-06 13:20,Spieker Pz Spieker Plaza,,
-21-02125,484 (A): PC; Theft,2021-12-05 11:23,400 Ohlone Av,,
-21-02126,OA-NON-CRIMINAL: Outside Assist - Non-Criminal,2021-12-06 22:21,2619 Dwight Wy,,
-21-02127,Caslty: Injury/Illness,2021-12-06 22:04,2650 Durant Av,,
-21-02128,647 (J)(1): PC; Disorderly Conduct:invade Privacy W/Camera/Etc In Bathrm/Etc,2021-12-06 22:35,2601 Warring St,,
-21-02081,484 (A): PC; Theft SUPP: Supplemental Reports Scanned: Add Scanned Documents to Report,2021-12-07 13:30,Peoples Park Peoples Park,,
-21-02129,Caslty: Injury/Illness,2021-12-07 01:50,2601 Warring St,,
-21-02130,INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-12-04 21:00,2010 Milvia St,,
-21-02132,487 (A): PC; Grand Theft:money/Labor/Property Over $950 Scanned: Add Scanned Documents to Report,2021-12-07 16:00,2400 Durant Av,,
-21-02133,RULES: Rules Violation 11364: HS; Possess Controlled Substance Paraphernalia 530.5 (c)(3): PC; Possess Id of 10 Or More Persons With Intent to Defraud added,2021-12-07 16:40,2650 Durant Av,,
-21-02134,Caslty: Injury/Illness,2021-12-08 00:20,2650 Durant Av,,
-21-02135,Caslty: Injury/Illness,2021-12-08 00:48,Physics Building Physics Building,,
-21-02136,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-08 07:00,Moffitt Library Moffitt Library,,
-21-02137,530.5 (A): PC; Get Credit/Etc Other's Id Scanned: Add Scanned Documents to Report,2021-11-28 12:00,2222 Bancroft Wy,,
-21-02138,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-12-04 05:30,303 Derby Av,,
-21-02139,Civil: Civil Information Report,2021-11-19 17:45,2650 Durant Av,,
-21-02140,Lost Prop.: Lost Property,2021-11-19 17:00,UNKNOWN Unknown OffCampus Location,,
-21-02141,Found Prop.: Found Property SUPP: Supplemental Reports Scanned: Add Scanned Documents to Report,2021-12-08 18:24,Spieker Pz Spieker Plaza,,
-21-02142,Caslty: Injury/Illness,2021-12-08 20:08,Haas Pavilion Haas Pavilion,,
-21-02143,Deceased: Deceased Person SUPP: Supplemental Reports Scanned: Add Scanned Documents to Report,2021-12-07 18:54,2424 Haste St,,
-21-02144,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-08 19:30,Dwinelle Hall,,
-21-02145,Found Prop.: Found Property Scanned: Add Scanned Documents to Report,2021-12-08 22:15,2538 Channing Wy,,
-21-02146,Civil: Civil Information Report Scanned: Add Scanned Documents to Report,2021-12-08 20:07,1 Cyclotron Rd,,
-21-02147,Caslty: Injury/Illness,2021-12-09 01:32,Sather Gate Sather Gate,,
-21-02148,626: Exclusion Order Issued Scanned: Add Scanned Documents to Report,2021-12-09 01:59,1898 Le Roy Av,,
-21-02149,484 (A): PC; Theft,2021-11-26 10:52,335 Ohlone Av,,
-21-02150,Lost Prop.: Lost Property,2021-12-07 17:30,Wheeler Hall,,
-21-02151,Caslty: Injury/Illness,2021-12-09 13:09,Sather Tower Sather Tower,,
-21-02152,594: PC; Malicious Mischief/Vandalism,2021-12-09 16:20,Bauer Wurster Hall,,
-21-02153,Lost Prop.: Lost Property,2021-12-09 15:47,2121 Berkeley Wy,,
-21-02154,"OUT WRTF: Other Agency Warrant, Fel SUPP: Supplemental Reports",2021-12-09 18:17,Fielding Field Fielding Field Rev 090418,,
-21-02155,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-09 19:08,2220 Piedmont Av,,
-21-02156,FIRE: Fire,2021-12-10 04:50,Peoples Park Peoples Park,,
-21-02157,INFO: Information Only Report,2021-12-10 10:45,Sproul Hall,,
-21-02158,Lost Prop.: Lost Property,2021-10-16 12:00,UNKNOWN Unknown OnCampus Location,,
-21-02159,529: PC; False Personation of Another:spec Cr,2021-12-10 14:00,Bauer Wurster Hall,,
-21-02160,OA-BATTERY: Outside Assist - Battery,2021-12-10 23:00,Unknown on Dwight Rev 090418,,
-21-02162,RULES: Rules Violation,2021-12-11 01:22,2222 Bancroft Wy,,
-21-02164,PRODAM: Property Damage,2021-12-11 03:02,Golden Bear Cafe Golden Bear Cafe,,
-21-02165,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-12-11 12:50,Sutardja Dai Hall,,
-21-02166,451: PC; Malicious Set/Etc Fire to Property/Etc SUPP: Supplemental Reports,2021-12-11 14:51,Anthropology  Art Practice Building AAPB,,
-21-02167,459V: PC; Burglary Vehicle SUPP: Supplemental Reports,2021-12-11 16:40,LHS Vista Lot,,
-21-02168,Caslty: Injury/Illness SUPP: Supplemental Reports *Aggravated Assault,2021-12-11 19:59,2401 Durant Av,,
-21-02169,487 (A): PC; Grand Theft:money/Labor/Property Over $950 Scanned: Add Scanned Documents to Report,2021-12-11 23:59,1608 Fourth St,,
-21-02170,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-12 06:30,2601 Warring St,,
-21-02171,INFO: Information Only Report,2021-12-12 11:37,16396 San Pablo Av,,
-21-02172,664/10851: PC; Attempt to Operate Vehicle W/O Owner's Consent (Amended),2021-12-12 00:15,2650 Durant Av,,
-21-02173,MISC: Miscellaneous Report,2021-12-13 12:03,Dwinelle Hall,,
-21-02174,242: PC; Battery,2021-12-13 14:35,Valley Life Science Building Valley Life Science Building,,
-21-02175,OA-VEH BURGLARY: Outside Assist - Vehicle Burglary,2021-12-13 20:52,2121 Berkeley Wy,,
-21-02176,WELFARE: Welfare Check,2021-12-14 02:28,2495 Bancroft Wy,,
-21-02177,PRODAM: Property Damage,2021-12-14 07:57,2601 Warring St,,
-21-02178,484 G: PC; Theft By Use of Access Card Information,2021-12-03 00:00,UNKNOWN Unknown Location,,
-21-02179,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-13 19:28,Li Ka Shing Center Li Ka Shing Center,,
-21-02180,290 (A): PC; Duty to Register As Sex Offender Scanned: Add Scanned Documents to Report,2021-12-14 13:13,Sproul Hall,,
-21-02181,5150: WI; 72 Hour Mental Health Hold Scanned: Add Scanned Documents to Report,2021-12-14 15:35,Peoples Park Peoples Park,,
-21-02182,OA-NON-CRIMINAL: Outside Assist - Non-Criminal Scanned: Add Scanned Documents to Report,2021-12-14 20:12,2223 Shattuck Av,,
-21-02188,484 E: PC; Theft of Credit Card (Amended),2021-08-16 12:00,UNKNOWN Unknown Location Rev 090418,,
-21-02183,484 (A): PC; Theft,2021-12-10 02:30,Chou Hall,,
-21-02184,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-15 03:00,Tan Hall,,
-21-02186,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-15 14:07,Moffitt Library Moffitt Library,,
-21-02187,TC-Non Injury: Traffic Collision Non Injury SUPP: Supplemental Reports,2021-12-15 15:27,Wickson Natural Area Haviland Grove,,
-21-02189,626: Exclusion Order Issued,2021-12-15 18:09,Davis Hall,,
-21-02190,Caslty: Injury/Illness,2021-12-15 18:27,2535 Channing Wy,,
-21-02191,OA-BURGLARY: Outside Assist - Burglary 653 M(A): PC; Annoying Telephone Call or elec contact:obscene/Threate,2021-12-15 06:28,College Av,,
-21-02192,INFO: Information Only Report,2021-12-16 08:41,Bauer Wurster Hall,,
-21-02194,243.4 (D)(1): PC; Touch Person Intimately Against Will For Sexual Arousal/Etc (Ame,2021-12-10 01:27,Campus,,
-21-02195,415: PC; Disturb The Peace,2021-12-03 15:30,2415 Bowditch St,,
-21-02196,602.5: PC; Enter/Etc Noncommercial Dwelling,2021-12-17 01:54,2401 Durant Av,,
-21-02198,148.3 (A): PC; False Report of Emergency,2021-12-17 09:23,University Village UVA,,
-21-02199,487 (A): PC; Grand Theft:money/Labor/Property Over $950 SUPP: Supplemental Reports,2021-12-15 16:00,2503 Haste St,,
-21-02200,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-12-17 11:55,1995 University Av,,
-21-02201,242: PC; Battery 626: Exclusion Order Issued,2021-12-17 18:50,Memorial Glade Memorial Glade,,
-21-02202,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-17 18:30,Evans Hall,,
-21-02203,SUPP: Supplemental Reports MP: Missing Person 243 (B): PC; Battery On Peace Officer/Emergency Personnel/Etc,2021-12-17 19:56,Lower Sproul Garage Lower Sproul Garage Rev 090418,,
-21-02204,Caslty: Injury/Illness,2021-12-18 06:44,Peoples Park Peoples Park,,
-21-02205,Caslty: Injury/Illness,2021-12-18 08:09,Haas Pavilion Haas Pavilion,,
-21-02206,602 (M): PC; Trespass:drive On Private Property (Amended) 626: Exclusion Order Issued,2021-12-18 12:08,2650 Haste St,,
-21-02207,487 (A): PC; Grand Theft:money/Labor/Property Over $950 211: PC; Robbery,2021-12-18 11:48,2495 Bancroft Wy,,
-21-02208,Found Prop.: Found Property,2021-12-18 16:02,Haas Pavilion Haas Pavilion Rev 090418,,
-21-02209,5150: WI; 72 Hour Mental Health Hold,2021-12-19 10:34,UVA Ballfields UVA Ballfields,,
-21-02210,417: PC; Exhibit Deadly Weapon/Firearm (Amended),2021-12-19 15:23,Peoples Park Peoples Park Rev 090418,,
-21-02211,Caslty: Injury/Illness,2021-12-20 02:08,Peoples Park Peoples Park,,
-21-02212,626: Exclusion Order Issued,2021-12-20 11:14,Bauer Wurster Hall,,
-21-02213,MISC: Miscellaneous Report,2021-12-20 12:54,2222 Bancroft Wy,,
-21-02214,594: PC; Malicious Mischief/Vandalism,2021-12-20 14:00,Lower Sproul Pz Lower Sproul Plaza,,
-21-02215,PRODAM: Property Damage,2021-12-20 14:00,Hearst Memorial Gymnasium Hearst Gym Rev 090418,,
-21-02216,PRODAM: Property Damage 451: PC; Malicious Set/Etc Fire to Property/Etc 484 (A): PC; Theft,2021-12-10 05:24,2301 Bancroft Wy,,
-21-02217,UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd,2021-12-21 09:47,SAN MATEO COUNTY SHERRIFFS,,
-21-02219,MISC: Miscellaneous Report *11350: HS; Possession of a controlled substance *466: PC; Possession of burglary tools,2021-12-21 17:06,Peoples Park Peoples Park Rev 090418,,
-21-02220,22651(o)(1): VC; Stored Vehicle-Registration Expired Over 6 Months **Theft,2021-12-22 00:43,405 Red Oak Av,,
-21-02221,HAZMAT: Hazardous Condition,2021-12-22 05:20,Hearst Mining Building Hearst Mining Building,,
-21-02222,484 G: PC; Theft By Use of Access Card Information,2021-12-16 11:05,1608 Fourth St,,
-21-02223,273.5 (A): PC; Inflict Corporal Injury On Spouse/Cohabitant,2021-12-21 19:00,300 block West End Way,,
-21-02224,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-10 20:59,2645 Haste St,,
-21-02225,FIRE: Fire,2021-12-22 15:33,Gill Tract Gill Tract,,
-21-02226,"UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd OUT WRTM: Other Agency Warrant, Misd",2021-12-22 19:10,Lower Sproul Garage Lower Sproul Garage Rev 090418,,
-21-02227,484 (A): PC; Theft,2021-12-22 03:30,685 Liberty Ship Wy,,
-21-02228,INFO: Information Only Report,2021-12-23 18:05,123 OFarrel St,,
-21-02229,Caslty: Injury/Illness,2021-12-24 04:19,660 Kinkead Wy,,
-21-02230,10852: VC; Tamper With Vehicle 459V: PC; Burglary Vehicle,2021-12-26 08:44,2645 Haste St,,
-21-02231,Caslty: Injury/Illness,2021-12-27 02:10,Peoples Park Peoples Park,,
-21-02232,PRODAM: Property Damage,2021-12-27 08:19,2601 Warring St,,
-21-02233,OA-THEFT: Outside Assist - Theft,2021-12-27 15:23,1525 TRUMAN ST,,
-21-02234,459V: PC; Burglary Vehicle,2021-12-27 15:28,Barrows Ln,,
-21-02235,459V: PC; Burglary Vehicle,2021-12-27 14:46,LHS East Lot,,
-21-02236,Civil: Civil Information Report,2021-12-26 19:00,California Hall,,
-21-02237,484 (A): PC; Petty Theft 626: Exclusion Order Issued,2021-12-28 14:26,2495 Bancroft Wy,,
-21-02238,Caslty: Injury/Illness,2021-12-28 20:12,Upper Sproul Pz Upper Sproul Plaza,,
-21-02239,245 (A)(4): PC; Adw With Force:possible Gbi,2021-12-28 20:45,Peoples Park Peoples Park,,
-21-02240,Caslty: Injury/Illness,2021-12-28 21:46,Peoples Park Peoples Park Rev 090418,,
-21-02241,2800.1 (A): VC; Evading Peace Officer 4462.5: VC; Display On Vehicle/Present to Officer Unlawful Registration,2021-12-29 06:13,DWIGHTWARRING Rev 090418,,
-21-02242,242: PC; Battery SUPP: Supplemental Reports,2021-12-30 13:45,Eucalyptus Grove Eucalyptus Grove,,
-21-02243,OA-BOMB: Outside Assist - Bomb Call,2021-12-30 08:12,32 Eagle Rock Rd,,
-21-02244,PRODAM: Property Damage Scanned: Add Scanned Documents to Report,2021-12-31 13:15,LBNL33 LBNL33,,
-21-02245,484 (A): PC; Theft Scanned: Add Scanned Documents to Report,2021-12-31 14:07,2301 Bancroft Wy,,
-21-00873,626.10 (B): PC; Possess Weapon/Etc On Campus:not Firearm 626.9 (H): PC; Possess/Etc Loaded Firearm:university/Etc 11377 (A): HS; Possess Controlled Substance 11364: HS; Possess Controlled Substance Paraphernalia Scanned: Add Scanned Documents to Report 11370.1: HS; Possess Specified Controlled Substance and Loaded Firearm 25400 (A)(1): PC; Carry Concealed Weapon In Vehicle,2021-07-01 03:42,Centennial Dr,,
-21-00874,OA Assist: Outside Agency Assist,2021-07-01 09:43,Union Pacific Railroad NORTH Harrison Street,,
-21-00876,459: PC; Burglary: First Degree Scanned: Add Scanned Documents to Report,2021-07-01 18:08,2601 Warring St,,
-21-00877,459V-F: PC; Burglary Vehicle,2021-07-01 13:15,Foothill Lot,,
-21-00878,5150: WI; 72 Hour Mental Health Hold Scanned: Add Scanned Documents to Report 242: PC; Battery,2021-07-01 11:48,2424 Haste St,,
-21-28924,,,Rev 090418,,
-21-00879,10852: VC; Tamper With Vehicle Scanned: Add Scanned Documents to Report,2021-07-02 03:16,Upper Hearst Structure Upper Hearst Structure,,
-21-00880,"10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft 466: PC; Possess/Etc Burglary Tools 182: PC; Criminal Conspiracy 496 (A): PC; Receive/Etc Known Stolen Property [$950 Or Less] OUT WRTF: Other Agency Warrant, Fel 626: Exclusion Order Issued Scanned: Add Scanned Documents to Report",2021-07-02 05:39,West End Wy,,
-21-00881,626: Exclusion Order Issued Scanned: Add Scanned Documents to Report,2021-07-02 16:33,8TH  HARRISON Rev 090418,,
-21-00882,148.4: PC; False Fire Alarm,2021-07-03 01:23,2200 Bancroft Wy,,
-21-00883,484: PC; Theft Scanned: Add Scanned Documents to Report,2021-07-01 12:00,Uva Uva,,
-21-00884,653 X(A): PC; Annoying/Etc Calls to 911,2021-07-03 07:01,Upper Sproul Pz Upper Sproul Pz Rev 090418,,
-21-00886,Caslty: Injury/Illness,2021-07-04 09:55,305 West End Wy,,
-21-00888,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-04 19:29,Evans Hall,,
-21-00889,OA Assist: Outside Agency Assist FIRE: Fire Scanned: Add Scanned Documents to Report,2021-07-04 20:06,Uva Uva Rev 090418,,
-21-00890,594: PC; Malicious Mischief/Vandalism,2021-07-05 20:28,Hearst Gym Hearst Gym,,
-21-00891,148.4: PC; False Fire Alarm,2021-07-05 21:00,2536 Channing Wy,,
-21-00892,484: PC; Petty Theft,2021-07-05 20:20,Lower Sproul Pz Lower Sproul Pz Rev 090418,,
-21-00893,417 (A)(1): PC; Exhibit Deadly Weapon Other Than Firearm,2021-07-06 11:39,Peoples Park Peoples Park,,
-21-00894,242: PC; Battery Scanned: Add Scanned Documents to Report,2021-07-02 14:00,Memorial Stadium Memorial Stadium,,
-21-00896,484 G: PC; Theft By Use of Credit Card [over $400] (Amended),2021-07-03 00:00,Space Sciences Space Sciences,,
-21-00897,374.3 (A): PC; Dump Waste:offensive Matter,2021-06-24 10:43,1608 4th St,,
-21-00898,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-03 13:00,485 Ohlone Av,,
-21-00899,14601.2 (B): VC; Drive While License Restricted For Dui 24603 (A): VC; Stoplamps:vehicle Must Be Equipped With One Or More Scanned: Add Scanned Documents to Report,2021-07-06 23:26,Rim Wy,,
-21-00900,OA Assist: Outside Agency Assist SUPP: Supplemental Reports,2021-07-07 09:15,SACRAMENTO,,
-21-00901,PRODAM: Property Damage,2021-07-07 13:47,2220 Piedmont Av,,
-21-00903,Lost Prop.: Lost Property,2020-10-04 03:09,Stanley Hall,,
-21-00904,10-42: Welfare Check,2021-07-07 22:51,Uva Uva Rev 090418,,
-21-00905,5150: WI; 72 Hour Mental Health Hold Scanned: Add Scanned Documents to Report,2021-07-08 00:37,Uva Uva,,
-21-00906,484: PC; Petty Theft,2021-07-05 06:00,Uva Uva,,
-21-00907,664: PC; Attempt Crime [state Specific Crime] 487 (A): PC; Grand Theft:money/Labor/Property Over $950 10852: VC; Tamper With Vehicle,2021-07-08 05:50,Red Oak Ave,,
-21-00908,RULES: Rules Violation,2021-07-09 00:32,Peoples Park Peoples Park,,
-21-00909,Lost Prop.: Lost Property,2021-05-05 16:33,220 Crestview Drive,,
-21-00910,11364: HS; Possess Controlled Substance Paraphernalia 626: Exclusion Order Issued 602 (M): PC; Trespass:drive On Private Property (Amended) 11377 (A): HS; Possess Controlled Substance,2021-07-09 18:04,1050 San Pablo Av,,
-21-00911,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-10 02:23,1301 S 46th Street,,
-21-00912,Civil: Civil Information Report,2021-03-06 00:00,Campus Campus,,
-21-00913,626.6: PC; Nonstudent Refuse to Leave Campus (Amended) 11364: HS; Possess Controlled Substance Paraphernalia,2021-07-10 11:25,Gill Tract Rev 090418,,
-21-00914,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-08 17:26,Life Science Addition Life Science Addition,,
-21-00915,273 A(B): PC; Willful Cruelty to Child Other Than Gbi/Death Scanned: Add Scanned Documents to Report,2021-07-11 16:31, Uva,,
-21-00916,594: PC; Malicious Mischief/Vandalism,2021-07-11 21:27,Simon Hall,,
-21-00917,Caslty: Injury/Illness,2021-07-12 06:34,Lbnl31 Lbnl31,,
-21-00918,594 (A)(3): PC; Vandalism:destroy Other's Property,2021-07-12 00:52,Cesar Chavez Center Cesar Chavez Center,,
-21-00920,261 (2): PC; Rape By Force/Fear (Amended) 209 (B)(1): PC; Kidnap to Commit Robbery/Rape/289 Pc/Etc 243.4 (A): PC; Sexual Battery 459: PC; Burglary: First Degree,2021-07-12 18:12,2500 block Haste St,,
-21-00921,"OUT WRTM: Other Agency Warrant, Misd 626: Exclusion Order Issued Scanned: Add Scanned Documents to Report",2021-07-12 21:32,600 Gooding Wy,,
-21-00922,594 (A): PC; Vandalism [under $1000],2021-07-13 09:15,Hearst Gym Hearst Gym,,
-21-00923,Civil: Civil Information Report,2021-07-13 11:01,Morgan Hall,,
-21-00924,OABPD: Outside Assist - BPD 459V-F: PC; Burglary Vehicle,2021-07-13 13:43,2400 BLOCK DURANT,,
-21-00925,10-42: Welfare Check,2021-07-13 16:14,Campus Campus,,
-21-00926,"OUT WRTF: Other Agency Warrant, Fel",2021-07-13 18:59,Bancroft Wy,,
-21-00927,Caslty: Injury/Illness,2021-05-27 12:30,1301 S 46th Street,,
-21-00928,273.5 (A): PC; Inflict Corporal Injury On Spouse/Cohabitant Scanned: Add Scanned Documents to Report,2021-07-14 02:00,800 block Ohlone Av,,
-21-00929,451: PC; Malicious Set/Etc Fire to Property/Etc,2021-07-14 03:30,46TH  MEADE ST,,
-21-00930,Caslty: Injury/Illness,2021-07-14 09:24,Calvin Lab Calvin Lab,,
-21-00931,Lost Prop.: Lost Property,2020-10-07 09:06,Unknown,,
-21-00932,484 (A): PC; Petty Theft,2021-07-08 00:00,2400 Durant Av,,
-21-00933,Lost Prop.: Lost Property,2021-07-14 13:31,1400 Fitzgerald Dr,,
-21-00934,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-14 12:30,Uva Uva,,
-21-00935,148.4 (A)(2): PC; Send/Etc False Fire Alarm By Any Method Scanned: Add Scanned Documents to Report,2021-07-14 17:05,Lower Sproul Garage Lower Sproul Garage,,
-21-00936,626.6 (A): PC; Nonstudent Refuse to Leave Campus 626: Exclusion Order Issued,2021-07-14 19:39,West Crescent  University Dr,,
-21-00937,459V-F: PC; Burglary Vehicle 466: PC; Possess/Etc Burglary Tools,2021-07-12 00:02,Jackson St,,
-21-00938,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-14 15:30,Upper Hearst Structure Upper Hearst Structure,,
+21-02100,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report 12022.1 (B): PC; Person On Bail: Secondary Offense Enhancement,2021-12-03 04:52,2601 Warring St,-122.250147,37.864041
+21-02101,602 (M): PC; Trespass:drive On Private Property (Amended),2021-12-03 04:05,Law Building Law Building,-122.25346010910064,37.8699502
+21-02102,626: Exclusion Order Issued 314: PC; Indecent Exposure Scanned: Add Scanned Documents to Report,2021-12-03 15:07,Strawberry Creek Strawberry Creek,-122.25979832155076,37.87017194121949
+21-02103,459V: PC; Burglary Vehicle Scanned: Add Scanned Documents to Report,2021-12-03 14:08,2701 Hearst Av,-122.256722,37.875615
+21-02104,Caslty: Injury/Illness,2021-12-04 08:15,Weill Hall,-122.26323831340245,37.8713331
+21-02105,242: PC; Battery Scanned: Add Scanned Documents to Report,2021-12-04 10:30,2495 Bancroft Way,-122.2598545,37.869332
+21-02106,10852: VC; Tamper With Vehicle,2021-12-03 13:15,2701 Hearst Av,-122.256722,37.875615
+21-02107,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-04 10:29,Moffitt Library Moffitt Library,-122.2598416,37.873349
+21-02108,Found Prop.: Found Property,2021-12-04 13:07,Upper Sproul Pz Upper Sproul Plaza,-122.259346,37.869473
+21-02109,Caslty: Injury/Illness,2021-12-04 16:46,Bauer Wurster Hall,-122.25490130888858,37.87058195
+21-02110,484 (A): PC; Petty Theft,2021-12-04 17:24,Memorial Stadium Memorial Stadium,-122.25073605072417,37.8709949
+21-02111,Caslty: Injury/Illness Scanned: Add Scanned Documents to Report,2021-12-02 13:00,Davis Hall,-122.25827894836976,37.87452305
+21-02112,148.4: PC; False Fire Alarm,2021-12-04 21:59,GPB Garage GPB Garage,-122.272863,37.8708393
+21-02113,Caslty: Injury/Illness,2021-12-04 22:21,Memorial Stadium Memorial Stadium,-122.25073605072417,37.8709949
+21-02114,Lost Prop.: Lost Property,2021-12-04 21:30,Piedmont Av,-122.25255791992419,37.87070609791057
+21-02115,Caslty: Injury/Illness,2021-12-05 02:17,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02116,Caslty: Injury/Illness,2021-12-05 02:31,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02117,594: PC; Malicious Mischief/Vandalism,2021-12-04 17:36,Lower Sproul Garage ASUC Garage Rev 090418,-122.2606309,37.8688322
+21-02118,Caslty: Injury/Illness,2021-12-05 23:59,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02119,OA-AUTO THEFT: Outside Assist - Auto Theft Scanned: Add Scanned Documents to Report,2021-12-06 07:37,2000 Carleton St,-122.268547,37.860596
+21-02120,Caslty: Injury/Illness,2021-12-06 10:27,945 Ohlone Av,-122.272863,37.8708393
+21-02121,INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-12-06 10:47,On Campus,-122.272863,37.8708393
+21-02123,148.4 (1): PC; False Tamper With Fire Alarm (Amended),2021-12-06 12:18,2645 Haste St,-122.2544244,37.8673072
+21-02124,484 (A): PC; Theft,2021-12-06 13:20,Spieker Pz Spieker Plaza,-122.261621,37.869196
+21-02125,484 (A): PC; Theft,2021-12-05 11:23,400 Ohlone Av,-122.272863,37.8708393
+21-02126,OA-NON-CRIMINAL: Outside Assist - Non-Criminal,2021-12-06 22:21,2619 Dwight Wy,-122.25491439430056,37.86552078551557
+21-02127,Caslty: Injury/Illness,2021-12-06 22:04,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02128,647 (J)(1): PC; Disorderly Conduct:invade Privacy W/Camera/Etc In Bathrm/Etc,2021-12-06 22:35,2601 Warring St,-122.250147,37.864041
+21-02081,484 (A): PC; Theft SUPP: Supplemental Reports Scanned: Add Scanned Documents to Report,2021-12-07 13:30,Peoples Park Peoples Park,-122.257299,37.865746
+21-02129,Caslty: Injury/Illness,2021-12-07 01:50,2601 Warring St,-122.250147,37.864041
+21-02130,INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-12-04 21:00,2010 Milvia St,-122.27084121638828,37.87158782219613
+21-02132,487 (A): PC; Grand Theft:money/Labor/Property Over $950 Scanned: Add Scanned Documents to Report,2021-12-07 16:00,2400 Durant Av,-122.260114,37.86724
+21-02133,RULES: Rules Violation 11364: HS; Possess Controlled Substance Paraphernalia 530.5 (c)(3): PC; Possess Id of 10 Or More Persons With Intent to Defraud added,2021-12-07 16:40,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02134,Caslty: Injury/Illness,2021-12-08 00:20,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02135,Caslty: Injury/Illness,2021-12-08 00:48,Physics Building Physics Building,-122.272863,37.8708393
+21-02136,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-08 07:00,Moffitt Library Moffitt Library,-122.2598416,37.873349
+21-02137,530.5 (A): PC; Get Credit/Etc Other's Id Scanned: Add Scanned Documents to Report,2021-11-28 12:00,2222 Bancroft Wy,-122.26741212033184,37.86774458786539
+21-02138,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-12-04 05:30,303 Derby Av,-122.272863,37.8708393
+21-02139,Civil: Civil Information Report,2021-11-19 17:45,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02140,Lost Prop.: Lost Property,2021-11-19 17:00,UNKNOWN Unknown OffCampus Location,-122.272863,37.8708393
+21-02141,Found Prop.: Found Property SUPP: Supplemental Reports Scanned: Add Scanned Documents to Report,2021-12-08 18:24,Spieker Pz Spieker Plaza,-122.261621,37.869196
+21-02142,Caslty: Injury/Illness,2021-12-08 20:08,Haas Pavilion Haas Pavilion,-122.26220609544905,37.86939045
+21-02143,Deceased: Deceased Person SUPP: Supplemental Reports Scanned: Add Scanned Documents to Report,2021-12-07 18:54,2424 Haste St,-122.25966220370195,37.86568885
+21-02144,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-08 19:30,Dwinelle Hall,-122.2607432628604,37.8707285
+21-02145,Found Prop.: Found Property Scanned: Add Scanned Documents to Report,2021-12-08 22:15,2538 Channing Wy,-122.25735679069767,37.8670381627907
+21-02146,Civil: Civil Information Report Scanned: Add Scanned Documents to Report,2021-12-08 20:07,1 Cyclotron Rd,-122.25346345559628,37.874931643733575
+21-02147,Caslty: Injury/Illness,2021-12-09 01:32,Sather Gate Sather Gate,-122.259509,37.8702403
+21-02148,626: Exclusion Order Issued Scanned: Add Scanned Documents to Report,2021-12-09 01:59,1898 Le Roy Av,-122.258485,37.875445
+21-02149,484 (A): PC; Theft,2021-11-26 10:52,335 Ohlone Av,-122.272863,37.8708393
+21-02150,Lost Prop.: Lost Property,2021-12-07 17:30,Wheeler Hall,-122.25917403060896,37.87132175
+21-02151,Caslty: Injury/Illness,2021-12-09 13:09,Sather Tower Sather Tower,-122.2578158,37.8720577
+21-02152,594: PC; Malicious Mischief/Vandalism,2021-12-09 16:20,Bauer Wurster Hall,-122.25490130888858,37.87058195
+21-02153,Lost Prop.: Lost Property,2021-12-09 15:47,2121 Berkeley Wy,-122.2683576,37.8737831
+21-02154,"OUT WRTF: Other Agency Warrant, Fel SUPP: Supplemental Reports",2021-12-09 18:17,Fielding Field Fielding Field Rev 090418,-122.272863,37.8708393
+21-02155,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-09 19:08,2220 Piedmont Av,-122.25286288751197,37.87097791199431
+21-02156,FIRE: Fire,2021-12-10 04:50,Peoples Park Peoples Park,-122.257299,37.865746
+21-02157,INFO: Information Only Report,2021-12-10 10:45,Sproul Hall,-122.25877388866843,37.8696038
+21-02158,Lost Prop.: Lost Property,2021-10-16 12:00,UNKNOWN Unknown OnCampus Location,-122.272863,37.8708393
+21-02159,529: PC; False Personation of Another:spec Cr,2021-12-10 14:00,Bauer Wurster Hall,-122.25490130888858,37.87058195
+21-02160,OA-BATTERY: Outside Assist - Battery,2021-12-10 23:00,Unknown on Dwight Rev 090418,-122.272863,37.8708393
+21-02162,RULES: Rules Violation,2021-12-11 01:22,2222 Bancroft Wy,-122.26741212033184,37.86774458786539
+21-02164,PRODAM: Property Damage,2021-12-11 03:02,Golden Bear Cafe Golden Bear Cafe,-122.259703,37.869831
+21-02165,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-12-11 12:50,Sutardja Dai Hall,-122.2583368484039,37.8748734
+21-02166,451: PC; Malicious Set/Etc Fire to Property/Etc SUPP: Supplemental Reports,2021-12-11 14:51,Anthropology  Art Practice Building AAPB,-122.25521364874075,37.8698277
+21-02167,459V: PC; Burglary Vehicle SUPP: Supplemental Reports,2021-12-11 16:40,LHS Vista Lot,-122.272863,37.8708393
+21-02168,Caslty: Injury/Illness SUPP: Supplemental Reports *Aggravated Assault,2021-12-11 19:59,2401 Durant Av,-122.26110790700152,37.868028499999994
+21-02169,487 (A): PC; Grand Theft:money/Labor/Property Over $950 Scanned: Add Scanned Documents to Report,2021-12-11 23:59,1608 Fourth St,-122.30222713682431,37.873165799999995
+21-02170,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-12 06:30,2601 Warring St,-122.250147,37.864041
+21-02171,INFO: Information Only Report,2021-12-12 11:37,16396 San Pablo Av,-122.2893962,37.8607537
+21-02172,664/10851: PC; Attempt to Operate Vehicle W/O Owner's Consent (Amended),2021-12-12 00:15,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-02173,MISC: Miscellaneous Report,2021-12-13 12:03,Dwinelle Hall,-122.2607432628604,37.8707285
+21-02174,242: PC; Battery,2021-12-13 14:35,Valley Life Science Building Valley Life Science Building,-122.272863,37.8708393
+21-02175,OA-VEH BURGLARY: Outside Assist - Vehicle Burglary,2021-12-13 20:52,2121 Berkeley Wy,-122.2683576,37.8737831
+21-02176,WELFARE: Welfare Check,2021-12-14 02:28,2495 Bancroft Wy,-122.2598545,37.869332
+21-02177,PRODAM: Property Damage,2021-12-14 07:57,2601 Warring St,-122.250147,37.864041
+21-02178,484 G: PC; Theft By Use of Access Card Information,2021-12-03 00:00,UNKNOWN Unknown Location,-122.272863,37.8708393
+21-02179,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft Scanned: Add Scanned Documents to Report,2021-12-13 19:28,Li Ka Shing Center Li Ka Shing Center,-122.265396,37.87281
+21-02180,290 (A): PC; Duty to Register As Sex Offender Scanned: Add Scanned Documents to Report,2021-12-14 13:13,Sproul Hall,-122.25877388866843,37.8696038
+21-02181,5150: WI; 72 Hour Mental Health Hold Scanned: Add Scanned Documents to Report,2021-12-14 15:35,Peoples Park Peoples Park,-122.257299,37.865746
+21-02182,OA-NON-CRIMINAL: Outside Assist - Non-Criminal Scanned: Add Scanned Documents to Report,2021-12-14 20:12,2223 Shattuck Av,-122.26811554676252,37.868895853279895
+21-02188,484 E: PC; Theft of Credit Card (Amended),2021-08-16 12:00,UNKNOWN Unknown Location Rev 090418,-122.272863,37.8708393
+21-02183,484 (A): PC; Theft,2021-12-10 02:30,Chou Hall,-122.2543175695445,37.8723524
+21-02184,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-15 03:00,Tan Hall,-122.25645027921993,37.87309405
+21-02186,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-15 14:07,Moffitt Library Moffitt Library,-122.2598416,37.873349
+21-02187,TC-Non Injury: Traffic Collision Non Injury SUPP: Supplemental Reports,2021-12-15 15:27,Wickson Natural Area Haviland Grove,-122.261049,37.874133
+21-02189,626: Exclusion Order Issued,2021-12-15 18:09,Davis Hall,-122.25827894836976,37.87452305
+21-02190,Caslty: Injury/Illness,2021-12-15 18:27,2535 Channing Wy,-122.25739897674418,37.867199906976744
+21-02191,OA-BURGLARY: Outside Assist - Burglary 653 M(A): PC; Annoying Telephone Call or elec contact:obscene/Threate,2021-12-15 06:28,College Av,-122.25349276258251,37.86138105573935
+21-02192,INFO: Information Only Report,2021-12-16 08:41,Bauer Wurster Hall,-122.25490130888858,37.87058195
+21-02194,243.4 (D)(1): PC; Touch Person Intimately Against Will For Sexual Arousal/Etc (Ame,2021-12-10 01:27,Campus,-122.288608,37.868541
+21-02195,415: PC; Disturb The Peace,2021-12-03 15:30,2415 Bowditch St,-122.25621929426624,37.866137951654
+21-02196,602.5: PC; Enter/Etc Noncommercial Dwelling,2021-12-17 01:54,2401 Durant Av,-122.26110790700152,37.868028499999994
+21-02198,148.3 (A): PC; False Report of Emergency,2021-12-17 09:23,University Village UVA,-122.272863,37.8708393
+21-02199,487 (A): PC; Grand Theft:money/Labor/Property Over $950 SUPP: Supplemental Reports,2021-12-15 16:00,2503 Haste St,-122.2585225860627,37.866127513824125
+21-02200,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-12-17 11:55,1995 University Av,-122.2717944,37.8722619
+21-02201,242: PC; Battery 626: Exclusion Order Issued,2021-12-17 18:50,Memorial Glade Memorial Glade,-122.259436,37.873221
+21-02202,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-17 18:30,Evans Hall,-122.25768131042068,37.873621099999994
+21-02203,SUPP: Supplemental Reports MP: Missing Person 243 (B): PC; Battery On Peace Officer/Emergency Personnel/Etc,2021-12-17 19:56,Lower Sproul Garage Lower Sproul Garage Rev 090418,-122.260471,37.869253
+21-02204,Caslty: Injury/Illness,2021-12-18 06:44,Peoples Park Peoples Park,-122.257299,37.865746
+21-02205,Caslty: Injury/Illness,2021-12-18 08:09,Haas Pavilion Haas Pavilion,-122.26220609544905,37.86939045
+21-02206,602 (M): PC; Trespass:drive On Private Property (Amended) 626: Exclusion Order Issued,2021-12-18 12:08,2650 Haste St,-122.25600252497779,37.866474196443825
+21-02207,487 (A): PC; Grand Theft:money/Labor/Property Over $950 211: PC; Robbery,2021-12-18 11:48,2495 Bancroft Wy,-122.2598545,37.869332
+21-02208,Found Prop.: Found Property,2021-12-18 16:02,Haas Pavilion Haas Pavilion Rev 090418,-122.26220609544905,37.86939045
+21-02209,5150: WI; 72 Hour Mental Health Hold,2021-12-19 10:34,UVA Ballfields UVA Ballfields,-122.272863,37.8708393
+21-02210,417: PC; Exhibit Deadly Weapon/Firearm (Amended),2021-12-19 15:23,Peoples Park Peoples Park Rev 090418,-122.272863,37.8708393
+21-02211,Caslty: Injury/Illness,2021-12-20 02:08,Peoples Park Peoples Park,-122.257299,37.865746
+21-02212,626: Exclusion Order Issued,2021-12-20 11:14,Bauer Wurster Hall,-122.25490130888858,37.87058195
+21-02213,MISC: Miscellaneous Report,2021-12-20 12:54,2222 Bancroft Wy,-122.26741212033184,37.86774458786539
+21-02214,594: PC; Malicious Mischief/Vandalism,2021-12-20 14:00,Lower Sproul Pz Lower Sproul Plaza,-122.26022867883118,37.86920445
+21-02215,PRODAM: Property Damage,2021-12-20 14:00,Hearst Memorial Gymnasium Hearst Gym Rev 090418,-122.257164,37.874153
+21-02216,PRODAM: Property Damage 451: PC; Malicious Set/Etc Fire to Property/Etc 484 (A): PC; Theft,2021-12-10 05:24,2301 Bancroft Wy,-122.260816,37.868605
+21-02217,UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd,2021-12-21 09:47,SAN MATEO COUNTY SHERRIFFS,-122.272863,37.8708393
+21-02219,MISC: Miscellaneous Report *11350: HS; Possession of a controlled substance *466: PC; Possession of burglary tools,2021-12-21 17:06,Peoples Park Peoples Park Rev 090418,-122.272863,37.8708393
+21-02220,22651(o)(1): VC; Stored Vehicle-Registration Expired Over 6 Months **Theft,2021-12-22 00:43,405 Red Oak Av,-122.272863,37.8708393
+21-02221,HAZMAT: Hazardous Condition,2021-12-22 05:20,Hearst Mining Building Hearst Mining Building,-122.25726679499158,37.874424950000005
+21-02222,484 G: PC; Theft By Use of Access Card Information,2021-12-16 11:05,1608 Fourth St,-122.30222713682431,37.873165799999995
+21-02223,273.5 (A): PC; Inflict Corporal Injury On Spouse/Cohabitant,2021-12-21 19:00,300 block West End Way,-122.272863,37.8708393
+21-02224,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-12-10 20:59,2645 Haste St,-122.2544244,37.8673072
+21-02225,FIRE: Fire,2021-12-22 15:33,Gill Tract Gill Tract,-122.272863,37.8708393
+21-02226,"UCBPD-WAR-M: Misdemeanor Warrant From Ucbpd OUT WRTM: Other Agency Warrant, Misd",2021-12-22 19:10,Lower Sproul Garage Lower Sproul Garage Rev 090418,-122.260471,37.869253
+21-02227,484 (A): PC; Theft,2021-12-22 03:30,685 Liberty Ship Wy,-122.272863,37.8708393
+21-02228,INFO: Information Only Report,2021-12-23 18:05,123 OFarrel St,-122.272863,37.8708393
+21-02229,Caslty: Injury/Illness,2021-12-24 04:19,660 Kinkead Wy,-122.272863,37.8708393
+21-02230,10852: VC; Tamper With Vehicle 459V: PC; Burglary Vehicle,2021-12-26 08:44,2645 Haste St,-122.2544244,37.8673072
+21-02231,Caslty: Injury/Illness,2021-12-27 02:10,Peoples Park Peoples Park,-122.257299,37.865746
+21-02232,PRODAM: Property Damage,2021-12-27 08:19,2601 Warring St,-122.250147,37.864041
+21-02233,OA-THEFT: Outside Assist - Theft,2021-12-27 15:23,1525 TRUMAN ST,-122.272863,37.8708393
+21-02234,459V: PC; Burglary Vehicle,2021-12-27 15:28,Barrows Ln,-122.25848573826141,37.869530343119656
+21-02235,459V: PC; Burglary Vehicle,2021-12-27 14:46,LHS East Lot,-122.272863,37.8708393
+21-02236,Civil: Civil Information Report,2021-12-26 19:00,California Hall,-122.26040950733994,37.87199425
+21-02237,484 (A): PC; Petty Theft 626: Exclusion Order Issued,2021-12-28 14:26,2495 Bancroft Wy,-122.2598545,37.869332
+21-02238,Caslty: Injury/Illness,2021-12-28 20:12,Upper Sproul Pz Upper Sproul Plaza,-122.259346,37.869473
+21-02239,245 (A)(4): PC; Adw With Force:possible Gbi,2021-12-28 20:45,Peoples Park Peoples Park,-122.257299,37.865746
+21-02240,Caslty: Injury/Illness,2021-12-28 21:46,Peoples Park Peoples Park Rev 090418,-122.272863,37.8708393
+21-02241,2800.1 (A): VC; Evading Peace Officer 4462.5: VC; Display On Vehicle/Present to Officer Unlawful Registration,2021-12-29 06:13,DWIGHTWARRING Rev 090418,-122.272863,37.8708393
+21-02242,242: PC; Battery SUPP: Supplemental Reports,2021-12-30 13:45,Eucalyptus Grove Eucalyptus Grove,-122.26386,37.87131
+21-02243,OA-BOMB: Outside Assist - Bomb Call,2021-12-30 08:12,32 Eagle Rock Rd,-122.272863,37.8708393
+21-02244,PRODAM: Property Damage Scanned: Add Scanned Documents to Report,2021-12-31 13:15,LBNL33 LBNL33,-122.272863,37.8708393
+21-02245,484 (A): PC; Theft Scanned: Add Scanned Documents to Report,2021-12-31 14:07,2301 Bancroft Wy,-122.260816,37.868605
+21-00873,626.10 (B): PC; Possess Weapon/Etc On Campus:not Firearm 626.9 (H): PC; Possess/Etc Loaded Firearm:university/Etc 11377 (A): HS; Possess Controlled Substance 11364: HS; Possess Controlled Substance Paraphernalia Scanned: Add Scanned Documents to Report 11370.1: HS; Possess Specified Controlled Substance and Loaded Firearm 25400 (A)(1): PC; Carry Concealed Weapon In Vehicle,2021-07-01 03:42,Centennial Dr,-122.24849847257846,37.8719471782372
+21-00874,OA Assist: Outside Agency Assist,2021-07-01 09:43,Union Pacific Railroad NORTH Harrison Street,-122.272863,37.8708393
+21-00876,459: PC; Burglary: First Degree Scanned: Add Scanned Documents to Report,2021-07-01 18:08,2601 Warring St,-122.250147,37.864041
+21-00877,459V-F: PC; Burglary Vehicle,2021-07-01 13:15,Foothill Lot,-122.25298596214569,37.8741938
+21-00878,5150: WI; 72 Hour Mental Health Hold Scanned: Add Scanned Documents to Report 242: PC; Battery,2021-07-01 11:48,2424 Haste St,-122.25966220370195,37.86568885
+21-28924,,,Rev 090418,-122.272863,37.8708393
+21-00879,10852: VC; Tamper With Vehicle Scanned: Add Scanned Documents to Report,2021-07-02 03:16,Upper Hearst Structure Upper Hearst Structure,-122.25735335427163,37.8757656
+21-00880,"10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft 466: PC; Possess/Etc Burglary Tools 182: PC; Criminal Conspiracy 496 (A): PC; Receive/Etc Known Stolen Property [$950 Or Less] OUT WRTF: Other Agency Warrant, Fel 626: Exclusion Order Issued Scanned: Add Scanned Documents to Report",2021-07-02 05:39,West End Wy,-122.272863,37.8708393
+21-00881,626: Exclusion Order Issued Scanned: Add Scanned Documents to Report,2021-07-02 16:33,8TH  HARRISON Rev 090418,-122.272863,37.8708393
+21-00882,148.4: PC; False Fire Alarm,2021-07-03 01:23,2200 Bancroft Wy,-122.26563645726156,37.8673933
+21-00883,484: PC; Theft Scanned: Add Scanned Documents to Report,2021-07-01 12:00,Uva Uva,-122.272863,37.8708393
+21-00884,653 X(A): PC; Annoying/Etc Calls to 911,2021-07-03 07:01,Upper Sproul Pz Upper Sproul Pz Rev 090418,-122.272863,37.8708393
+21-00886,Caslty: Injury/Illness,2021-07-04 09:55,305 West End Wy,-122.272863,37.8708393
+21-00888,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-04 19:29,Evans Hall,-122.25768131042068,37.873621099999994
+21-00889,OA Assist: Outside Agency Assist FIRE: Fire Scanned: Add Scanned Documents to Report,2021-07-04 20:06,Uva Uva Rev 090418,-122.272863,37.8708393
+21-00890,594: PC; Malicious Mischief/Vandalism,2021-07-05 20:28,Hearst Gym Hearst Gym,-122.272863,37.8708393
+21-00891,148.4: PC; False Fire Alarm,2021-07-05 21:00,2536 Channing Wy,-122.25736188372093,37.86703753488372
+21-00892,484: PC; Petty Theft,2021-07-05 20:20,Lower Sproul Pz Lower Sproul Pz Rev 090418,-122.26022867883118,37.86920445
+21-00893,417 (A)(1): PC; Exhibit Deadly Weapon Other Than Firearm,2021-07-06 11:39,Peoples Park Peoples Park,-122.257299,37.865746
+21-00894,242: PC; Battery Scanned: Add Scanned Documents to Report,2021-07-02 14:00,Memorial Stadium Memorial Stadium,-122.25073605072417,37.8709949
+21-00896,484 G: PC; Theft By Use of Credit Card [over $400] (Amended),2021-07-03 00:00,Space Sciences Space Sciences,-122.2446195,37.880597
+21-00897,374.3 (A): PC; Dump Waste:offensive Matter,2021-06-24 10:43,1608 4th St,-122.30222713682431,37.873165799999995
+21-00898,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-03 13:00,485 Ohlone Av,-122.272863,37.8708393
+21-00899,14601.2 (B): VC; Drive While License Restricted For Dui 24603 (A): VC; Stoplamps:vehicle Must Be Equipped With One Or More Scanned: Add Scanned Documents to Report,2021-07-06 23:26,Rim Wy,-122.25193544354337,37.87253304326599
+21-00900,OA Assist: Outside Agency Assist SUPP: Supplemental Reports,2021-07-07 09:15,SACRAMENTO,-122.28165063032631,37.86629583927968
+21-00901,PRODAM: Property Damage,2021-07-07 13:47,2220 Piedmont Av,-122.25286288751197,37.87097791199431
+21-00903,Lost Prop.: Lost Property,2020-10-04 03:09,Stanley Hall,-122.25608574376449,37.87396185
+21-00904,10-42: Welfare Check,2021-07-07 22:51,Uva Uva Rev 090418,-122.272863,37.8708393
+21-00905,5150: WI; 72 Hour Mental Health Hold Scanned: Add Scanned Documents to Report,2021-07-08 00:37,Uva Uva,-122.272863,37.8708393
+21-00906,484: PC; Petty Theft,2021-07-05 06:00,Uva Uva,-122.272863,37.8708393
+21-00907,664: PC; Attempt Crime [state Specific Crime] 487 (A): PC; Grand Theft:money/Labor/Property Over $950 10852: VC; Tamper With Vehicle,2021-07-08 05:50,Red Oak Ave,-122.272863,37.8708393
+21-00908,RULES: Rules Violation,2021-07-09 00:32,Peoples Park Peoples Park,-122.257299,37.865746
+21-00909,Lost Prop.: Lost Property,2021-05-05 16:33,220 Crestview Drive,-122.272863,37.8708393
+21-00910,11364: HS; Possess Controlled Substance Paraphernalia 626: Exclusion Order Issued 602 (M): PC; Trespass:drive On Private Property (Amended) 11377 (A): HS; Possess Controlled Substance,2021-07-09 18:04,1050 San Pablo Av,-122.2977954,37.8867394
+21-00911,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-10 02:23,1301 S 46th Street,-122.272863,37.8708393
+21-00912,Civil: Civil Information Report,2021-03-06 00:00,Campus Campus,-122.272863,37.8708393
+21-00913,626.6: PC; Nonstudent Refuse to Leave Campus (Amended) 11364: HS; Possess Controlled Substance Paraphernalia,2021-07-10 11:25,Gill Tract Rev 090418,-122.272863,37.8708393
+21-00914,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-08 17:26,Life Science Addition Life Science Addition,-122.272863,37.8708393
+21-00915,273 A(B): PC; Willful Cruelty to Child Other Than Gbi/Death Scanned: Add Scanned Documents to Report,2021-07-11 16:31, Uva,-122.272863,37.8708393
+21-00916,594: PC; Malicious Mischief/Vandalism,2021-07-11 21:27,Simon Hall,-122.25268594356828,37.8698778
+21-00917,Caslty: Injury/Illness,2021-07-12 06:34,Lbnl31 Lbnl31,-122.272863,37.8708393
+21-00918,594 (A)(3): PC; Vandalism:destroy Other's Property,2021-07-12 00:52,Cesar Chavez Center Cesar Chavez Center,-122.260364,37.86962
+21-00920,261 (2): PC; Rape By Force/Fear (Amended) 209 (B)(1): PC; Kidnap to Commit Robbery/Rape/289 Pc/Etc 243.4 (A): PC; Sexual Battery 459: PC; Burglary: First Degree,2021-07-12 18:12,2500 block Haste St,-122.272863,37.8708393
+21-00921,"OUT WRTM: Other Agency Warrant, Misd 626: Exclusion Order Issued Scanned: Add Scanned Documents to Report",2021-07-12 21:32,600 Gooding Wy,-122.272863,37.8708393
+21-00922,594 (A): PC; Vandalism [under $1000],2021-07-13 09:15,Hearst Gym Hearst Gym,-122.272863,37.8708393
+21-00923,Civil: Civil Information Report,2021-07-13 11:01,Morgan Hall,-122.2642396569932,37.873342449999996
+21-00924,OABPD: Outside Assist - BPD 459V-F: PC; Burglary Vehicle,2021-07-13 13:43,2400 BLOCK DURANT,-122.272863,37.8708393
+21-00925,10-42: Welfare Check,2021-07-13 16:14,Campus Campus,-122.272863,37.8708393
+21-00926,"OUT WRTF: Other Agency Warrant, Fel",2021-07-13 18:59,Bancroft Wy,-122.28565157020569,37.86528873030079
+21-00927,Caslty: Injury/Illness,2021-05-27 12:30,1301 S 46th Street,-122.272863,37.8708393
+21-00928,273.5 (A): PC; Inflict Corporal Injury On Spouse/Cohabitant Scanned: Add Scanned Documents to Report,2021-07-14 02:00,800 block Ohlone Av,-122.272863,37.8708393
+21-00929,451: PC; Malicious Set/Etc Fire to Property/Etc,2021-07-14 03:30,46TH  MEADE ST,-122.272863,37.8708393
+21-00930,Caslty: Injury/Illness,2021-07-14 09:24,Calvin Lab Calvin Lab,-122.272863,37.8708393
+21-00931,Lost Prop.: Lost Property,2020-10-07 09:06,Unknown,-122.272863,37.8708393
+21-00932,484 (A): PC; Petty Theft,2021-07-08 00:00,2400 Durant Av,-122.260114,37.86724
+21-00933,Lost Prop.: Lost Property,2021-07-14 13:31,1400 Fitzgerald Dr,-122.272863,37.8708393
+21-00934,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-14 12:30,Uva Uva,-122.272863,37.8708393
+21-00935,148.4 (A)(2): PC; Send/Etc False Fire Alarm By Any Method Scanned: Add Scanned Documents to Report,2021-07-14 17:05,Lower Sproul Garage Lower Sproul Garage,-122.2606309,37.8688322
+21-00936,626.6 (A): PC; Nonstudent Refuse to Leave Campus 626: Exclusion Order Issued,2021-07-14 19:39,West Crescent  University Dr,-122.272863,37.8708393
+21-00937,459V-F: PC; Burglary Vehicle 466: PC; Possess/Etc Burglary Tools,2021-07-12 00:02,Jackson St,-122.272863,37.8708393
+21-00938,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-14 15:30,Upper Hearst Structure Upper Hearst Structure,-122.25735335427163,37.8757656
 21-00940,242: PC; Battery OA-BATTERY: Outside Assist - Battery,2021-07-10 00:01,Lake Tahoe Area,,
-21-00942,PRODAM: Property Damage,2021-07-15 19:26,Peoples Park Peoples Park Rev 090418,,
-21-00943,594 (A)(2): VC; Vandalism Less Than $400,2021-07-15 14:36,Uva Uva,,
-21-00944,Caslty: Injury/Illness,2021-07-16 21:05,Peoples Park Peoples Park Rev 090418,,
-21-00945,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-16 12:07,Ellsworth Parking Structure Structure C,,
-21-00946,MISC: Miscellaneous Report,2021-07-17 01:22,2415 Dwight Wy,,
-21-00947,OABPD: Outside Assist - BPD 23152 (A): VC; Dui Alcohol,2021-07-17 00:04,Bancroft Wy,,
-21-00948,626: Exclusion Order Issued Scanned: Add Scanned Documents to Report,2021-07-17 06:34,Upper Sproul Pz Upper Sproul Pz Rev 090418,,
-21-00950,MISC: Miscellaneous Report,2021-07-18 06:30,Lbnl46 Lbnl46,,
-21-00951,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-18 09:39,Spieker Pool Spieker Pool Rev 090418,,
-21-00953,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2017-10-01 00:00,East Asian Library East Asian Library,,
-21-00954,PRODAM: Property Damage,2021-07-15 22:27,2420 Bowditch St,,
-21-00955,647 (E): PC; Disorderly Conduct:lodge Without Owners Consent,2021-07-19 10:54,2536 Channing Wy,,
-21-00956,Lost Prop.: Lost Property,2021-07-15 22:30,Davis Hall,,
-21-00957,FIRE: Fire,2021-07-19 19:15,1301 S 46th Street,,
-21-00958,594: PC; Malicious Mischief/Vandalism,2021-07-19 21:36,2650 Durant Av,,
-21-00959,Found Prop.: Found Property,2021-07-20 00:39,2650 Haste St,,
-21-00960,OA Assist: Outside Agency Assist 664 /211: PC; Attempted Robbery,2021-07-20 00:10,1700 BLK Spruce St,,
-21-00961,Caslty: Injury/Illness,2021-07-20 08:39,3200 Regatta Blvd,,
-21-00962,484 (A): PC; Theft,2021-07-20 02:15,945 Ohlone Av,,
-21-00963,211: PC; Robbery:second Degree UCBPD-WAR-F: Felony Warrant From Ucbpd,2021-07-20 04:00,2301 Bancroft Wy,,
-21-00964,626.6 (A): PC; Nonstudent Refuse to Leave Campus 626: Exclusion Order Issued 11364 (A): HS; Possess Unlawful Paraphernalia (Renumbered) SUPP: Supplemental Reports,2021-07-20 16:25,Gill Tract,,
-21-00966,459: PC; Burglary: First Degree,2021-07-20 18:21,Haviland Hall,,
-21-00967,459V-F: PC; Burglary Vehicle,2021-07-20 23:55,Underhill Lot,,
-21-00968,Lost Prop.: Lost Property,2021-07-21 11:30,Interstate80 West,,
-21-00969,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-21 05:45,400 Ohlone 103 Rev 090418,,
-21-00970,Found Prop.: Found Property,2021-07-22 05:00,2700 Bancroft Wy,,
-21-00971,594 (A)(1): PC; Vandalism: Deface Property,2021-07-22 00:30,Hearst Field Annex Hearst Field Annex,,
-21-00972,Caslty: Injury/Illness,2021-07-22 09:15,Haas Pavilion Haas Pavilion,,
-21-00973,Caslty: Injury/Illness,2021-07-22 10:32,Faculty Glade Faculty Glade,,
-21-00974,594: PC; Malicious Mischief/Vandalism,2021-07-22 20:45,2199 Addison St,,
-21-00975,459: PC; Burglary: Second Degree,2021-07-23 17:16,GILL TRACT Rev 090418,,
-21-00976,484 (A): PC; Theft,2021-07-23 19:00,1005 6th Street,,
-21-00977,Caslty: Injury/Illness,2021-07-24 11:10,2601 Warring St,,
-21-00978,MISC: Miscellaneous Report,2021-07-24 14:37,Alta Bates,,
-21-00979,INFO: Information Only Report,2021-05-20 09:13,Campus Campus,,
-21-00980,Caslty: Injury/Illness,2021-07-24 21:02,Bowles Lot,,
-21-00981,Caslty: Injury/Illness,2021-07-24 23:27,2001 Gayley Rd,,
-21-00982,Found Prop.: Found Property,2021-07-25 16:15,Bancroft Wy,,
-21-00983,20002 (A): VC; Hit and Run:property Damage,2021-07-26 08:57,Centennial Dr,,
-21-00984,242: PC; Battery,2021-07-26 09:45,Uva Uva,,
-21-00985,PRODAM: Property Damage,2021-07-26 15:31,2400 Durant Av,,
-21-00986,Caslty: Injury/Illness,2021-07-26 18:27,1080 Monroe St,,
-21-00987,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-07-27 11:10,405 Red Oak Av,,
-21-00988,Lost Prop.: Lost Property,2021-07-27 12:37,2220 Piedmont Av,,
-21-00989,10-42: Welfare Check,2021-07-27 17:16,Bancroft Wy,,
-21-00990,314: PC; Indecent Exposure Scanned: Add Scanned Documents to Report,2021-07-28 00:28,Lower Sproul Garage Lower Sproul Garage,,
-21-00991,Found Prop.: Found Property,2021-07-28 00:54,FultonKittridge,,
-21-00993,484: PC; Theft 211: PC; Robbery,2021-07-28 09:20,Spieker Pz Spieker Pz Center St,,
-21-33574,manually added,,Rev 090418,,
-21-00994,PRODAM: Property Damage,2021-07-29 08:17,6035 Telegraph Av,,
-21-00995,484: PC; Petty Theft,2021-07-28 19:30,580 Ohlone Av,,
-21-00996,459V-F: PC; Burglary Vehicle,2021-07-28 20:10,Foothill Lot,,
-21-00997,INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-07-29 13:45,Fielding Field Fielding Field,,
-21-00998,459V-F: PC; Burglary Vehicle,2021-07-29 13:41,Upper Hearst Structure Upper Hearst Structure,,
-21-00999,Lost Prop.: Lost Property,2021-06-24 08:32,2222 Bancroft Wy,,
-21-01000,594: PC; Malicious Mischief/Vandalism,2021-07-29 22:37,Senior Hall,,
-21-01001,FIRE: Fire,2021-07-30 01:49,2610 Channing Wy,,
-21-01002,INFO: Information Only Report,2021-07-30 12:17,Leconte Hall,,
-21-01003,Caslty: Injury/Illness,2021-07-30 15:27,Uva Uva,,
-21-01005,OA-ASSAULT: Outside Assist - Assault 245 (A)(2): PC; Assault With Firearm On Person Scanned: Add Scanned Documents to Report,2021-07-22 18:00,Unknown,,
-21-01006,OABPD: Outside Assist - BPD 273 A(B): PC; Willful Cruelty to Child Other Than Gbi/Death Scanned: Add Scanned Documents to Report,2020-01-16 12:00,1300 block Sacramento Street,,
-21-01007,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-30 22:18,Hearst Mining Building Hearst Mining Building,,
-21-01008,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-30 22:18,Cory Hall,,
-21-01009,FIRE: Fire,2021-07-31 05:02,1075 Monroe St,,
+21-00942,PRODAM: Property Damage,2021-07-15 19:26,Peoples Park Peoples Park Rev 090418,-122.272863,37.8708393
+21-00943,594 (A)(2): VC; Vandalism Less Than $400,2021-07-15 14:36,Uva Uva,-122.272863,37.8708393
+21-00944,Caslty: Injury/Illness,2021-07-16 21:05,Peoples Park Peoples Park Rev 090418,-122.272863,37.8708393
+21-00945,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-16 12:07,Ellsworth Parking Structure Structure C,-122.257208,37.875746
+21-00946,MISC: Miscellaneous Report,2021-07-17 01:22,2415 Dwight Wy,-122.26055853746672,37.8653537
+21-00947,OABPD: Outside Assist - BPD 23152 (A): VC; Dui Alcohol,2021-07-17 00:04,Bancroft Wy,-122.28565157020569,37.86528873030079
+21-00948,626: Exclusion Order Issued Scanned: Add Scanned Documents to Report,2021-07-17 06:34,Upper Sproul Pz Upper Sproul Pz Rev 090418,-122.272863,37.8708393
+21-00950,MISC: Miscellaneous Report,2021-07-18 06:30,Lbnl46 Lbnl46,-122.272863,37.8708393
+21-00951,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-18 09:39,Spieker Pool Spieker Pool Rev 090418,-122.26211592687599,37.86872835
+21-00953,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2017-10-01 00:00,East Asian Library East Asian Library,-122.260006,37.873572
+21-00954,PRODAM: Property Damage,2021-07-15 22:27,2420 Bowditch St,-122.25621354959466,37.86610367095072
+21-00955,647 (E): PC; Disorderly Conduct:lodge Without Owners Consent,2021-07-19 10:54,2536 Channing Wy,-122.25736188372093,37.86703753488372
+21-00956,Lost Prop.: Lost Property,2021-07-15 22:30,Davis Hall,-122.25827894836976,37.87452305
+21-00957,FIRE: Fire,2021-07-19 19:15,1301 S 46th Street,-122.272863,37.8708393
+21-00958,594: PC; Malicious Mischief/Vandalism,2021-07-19 21:36,2650 Durant Av,-122.25523019684019,37.867819999999995
+21-00959,Found Prop.: Found Property,2021-07-20 00:39,2650 Haste St,-122.25600252497779,37.866474196443825
+21-00960,OA Assist: Outside Agency Assist 664 /211: PC; Attempted Robbery,2021-07-20 00:10,1700 BLK Spruce St,-122.265853,37.876821
+21-00961,Caslty: Injury/Illness,2021-07-20 08:39,3200 Regatta Blvd,-122.272863,37.8708393
+21-00962,484 (A): PC; Theft,2021-07-20 02:15,945 Ohlone Av,-122.272863,37.8708393
+21-00963,211: PC; Robbery:second Degree UCBPD-WAR-F: Felony Warrant From Ucbpd,2021-07-20 04:00,2301 Bancroft Wy,-122.260816,37.868605
+21-00964,626.6 (A): PC; Nonstudent Refuse to Leave Campus 626: Exclusion Order Issued 11364 (A): HS; Possess Unlawful Paraphernalia (Renumbered) SUPP: Supplemental Reports,2021-07-20 16:25,Gill Tract,-122.272863,37.8708393
+21-00966,459: PC; Burglary: First Degree,2021-07-20 18:21,Haviland Hall,-122.2611045603687,37.8737907
+21-00967,459V-F: PC; Burglary Vehicle,2021-07-20 23:55,Underhill Lot,-122.272863,37.8708393
+21-00968,Lost Prop.: Lost Property,2021-07-21 11:30,Interstate80 West,-122.272863,37.8708393
+21-00969,487 (A): PC; Grand Theft:money/Labor/Property Over $950,2021-07-21 05:45,400 Ohlone 103 Rev 090418,-122.287880783,37.87704797
+21-00970,Found Prop.: Found Property,2021-07-22 05:00,2700 Bancroft Wy,-122.25707242207793,37.86907978571429
+21-00971,594 (A)(1): PC; Vandalism: Deface Property,2021-07-22 00:30,Hearst Field Annex Hearst Field Annex,-122.2581812086218,37.86943305
+21-00972,Caslty: Injury/Illness,2021-07-22 09:15,Haas Pavilion Haas Pavilion,-122.26220609544905,37.86939045
+21-00973,Caslty: Injury/Illness,2021-07-22 10:32,Faculty Glade Faculty Glade,-122.256521,37.871336
+21-00974,594: PC; Malicious Mischief/Vandalism,2021-07-22 20:45,2199 Addison St,-122.2665321343369,37.87196635
+21-00975,459: PC; Burglary: Second Degree,2021-07-23 17:16,GILL TRACT Rev 090418,-122.272863,37.8708393
+21-00976,484 (A): PC; Theft,2021-07-23 19:00,1005 6th Street,-122.272863,37.8708393
+21-00977,Caslty: Injury/Illness,2021-07-24 11:10,2601 Warring St,-122.250147,37.864041
+21-00978,MISC: Miscellaneous Report,2021-07-24 14:37,Alta Bates,-122.27091380518019,37.86306425
+21-00979,INFO: Information Only Report,2021-05-20 09:13,Campus Campus,-122.272863,37.8708393
+21-00980,Caslty: Injury/Illness,2021-07-24 21:02,Bowles Lot,-122.25350311649362,37.87334125
+21-00981,Caslty: Injury/Illness,2021-07-24 23:27,2001 Gayley Rd,-122.25611709380318,37.87475781058154
+21-00982,Found Prop.: Found Property,2021-07-25 16:15,Bancroft Wy,-122.28565157020569,37.86528873030079
+21-00983,20002 (A): VC; Hit and Run:property Damage,2021-07-26 08:57,Centennial Dr,-122.24849847257846,37.8719471782372
+21-00984,242: PC; Battery,2021-07-26 09:45,Uva Uva,-122.272863,37.8708393
+21-00985,PRODAM: Property Damage,2021-07-26 15:31,2400 Durant Av,-122.260114,37.86724
+21-00986,Caslty: Injury/Illness,2021-07-26 18:27,1080 Monroe St,-122.272863,37.8708393
+21-00987,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-07-27 11:10,405 Red Oak Av,-122.272863,37.8708393
+21-00988,Lost Prop.: Lost Property,2021-07-27 12:37,2220 Piedmont Av,-122.25286288751197,37.87097791199431
+21-00989,10-42: Welfare Check,2021-07-27 17:16,Bancroft Wy,-122.28565157020569,37.86528873030079
+21-00990,314: PC; Indecent Exposure Scanned: Add Scanned Documents to Report,2021-07-28 00:28,Lower Sproul Garage Lower Sproul Garage,-122.2606309,37.8688322
+21-00991,Found Prop.: Found Property,2021-07-28 00:54,FultonKittridge,-122.272863,37.8708393
+21-00993,484: PC; Theft 211: PC; Robbery,2021-07-28 09:20,Spieker Pz Spieker Pz Center St,-122.261621,37.869196
+21-33574,manually added,,Rev 090418,-122.272863,37.8708393
+21-00994,PRODAM: Property Damage,2021-07-29 08:17,6035 Telegraph Av,-122.261293,37.8470453
+21-00995,484: PC; Petty Theft,2021-07-28 19:30,580 Ohlone Av,-122.272863,37.8708393
+21-00996,459V-F: PC; Burglary Vehicle,2021-07-28 20:10,Foothill Lot,-122.25298596214569,37.8741938
+21-00997,INFO: Information Only Report Scanned: Add Scanned Documents to Report,2021-07-29 13:45,Fielding Field Fielding Field,-122.272863,37.8708393
+21-00998,459V-F: PC; Burglary Vehicle,2021-07-29 13:41,Upper Hearst Structure Upper Hearst Structure,-122.25735335427163,37.8757656
+21-00999,Lost Prop.: Lost Property,2021-06-24 08:32,2222 Bancroft Wy,-122.26741212033184,37.86774458786539
+21-01000,594: PC; Malicious Mischief/Vandalism,2021-07-29 22:37,Senior Hall,-122.25540894661444,37.8718699
+21-01001,FIRE: Fire,2021-07-30 01:49,2610 Channing Wy,-122.2563729387755,37.867161959183676
+21-01002,INFO: Information Only Report,2021-07-30 12:17,Leconte Hall,-122.25719,37.8727
+21-01003,Caslty: Injury/Illness,2021-07-30 15:27,Uva Uva,-122.272863,37.8708393
+21-01005,OA-ASSAULT: Outside Assist - Assault 245 (A)(2): PC; Assault With Firearm On Person Scanned: Add Scanned Documents to Report,2021-07-22 18:00,Unknown,-122.272863,37.8708393
+21-01006,OABPD: Outside Assist - BPD 273 A(B): PC; Willful Cruelty to Child Other Than Gbi/Death Scanned: Add Scanned Documents to Report,2020-01-16 12:00,1300 block Sacramento Street,-122.283367,37.880798
+21-01007,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-30 22:18,Hearst Mining Building Hearst Mining Building,-122.25726679499158,37.874424950000005
+21-01008,594 (A)(1): PC; Maliciously Deface W/Paint/Etc,2021-07-30 22:18,Cory Hall,-122.2579707,37.8752985
+21-01009,FIRE: Fire,2021-07-31 05:02,1075 Monroe St,-122.272863,37.8708393
 21-01010,417 (A)(1): PC; Exhibit Deadly Weapon Other Than Firearm 5150: WI; 72 Hour Mental Health Hold,2021-07-31 15:54,Valley Life Science Bldg VLSB,,
 21-01011,484: PC; Petty Theft,2021-07-31 21:21,GRAYWHALE COVE BEACH,,
 21-01012,10851 (A): VC; Take Vehicle W/O Owner's Consent/Vehicle Theft,2021-07-27 13:00,685 Libertyship Wy,,
